@@ -2,11 +2,12 @@
 
 `CURSO`
 
-`DISCIPLINA`
+`DISCIPLINA` Eixo 1 - Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 02
 
-`SEMESTRE`
+`SEMESTRE`2023/1
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo geral deste trabalho é oferecer um espaço que contenha uma variedade de receitas que atendam às diversas especificidades e restrições alimentícias. A ideia do projeto vrio da ausência de ambientes que disponibilizam informações para pessoas que seguem uma dieta especial, seja ela sem glúten, sem lactose, para hipertensos, pessoas com colesterol alto, vegetarianos, veganos ou mesmo que queiram realizar uma receita com algum ingrediente específico.
+
 
 ## Integrantes
 
@@ -17,10 +18,11 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Nome completo do professor 1
+* Joyce Christina de Paiva Carvalho
 
 ## Instruções de utilização
 
+O site pode ser acessado através do link abaixo:
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
 # Documentação
