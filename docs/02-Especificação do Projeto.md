@@ -1,6 +1,7 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> O projeto visa disponibilizar esse ambiente com receitas para o público com necessidades específicas. Possuímos atualmente poucos espaços com esse intuito e a estimativa é de que, nos próximos cinco anos, o comércio de produtos “free from” tenha um aumento de 6,3% por ano, alcançando a receita de R$2,52 bilhões em 2022. Com isso, tendências promissoras podem surgir, como criação de lojas especializadas; clubes de assinaturas; restaurantes veganos; lanchonetes fitness; cafeterias sem lactose, entre outros.
+</a></span>
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
