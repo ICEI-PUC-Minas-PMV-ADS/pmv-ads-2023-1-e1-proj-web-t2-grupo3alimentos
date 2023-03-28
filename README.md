@@ -1,4 +1,4 @@
-# QUE COMA QUEM PUDER: RECEITAS PARA RESTRIÇÕES ALIMENTARES
+# Sabor e Saúde
 
 `CURSO` Análise e Desenvolvimento de Sistemas
 
