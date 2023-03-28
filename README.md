@@ -1,6 +1,6 @@
-# TÍTULO DO PROJETO
+# QUE COMA QUEM PUDER: RECEITAS PARA RESTRIÇÕES ALIMENTARES
 
-`CURSO`
+`CURSO` Análise e Desenvolvimento de Sistemas
 
 `DISCIPLINA` Eixo 1 - Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 02
 
@@ -22,7 +22,7 @@ O objetivo geral deste trabalho é oferecer um espaço que contenha uma variedad
 
 ## Instruções de utilização
 
-O site pode ser acessado através do link abaixo:
+O site pode ser acessado através do link abaixo:<br /> <br />Não se faz necessária a instalação de nenhum componente. <br />
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
 # Documentação
