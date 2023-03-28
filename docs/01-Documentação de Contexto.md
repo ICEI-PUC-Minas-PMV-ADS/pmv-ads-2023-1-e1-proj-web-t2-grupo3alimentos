@@ -1,19 +1,11 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Em todas as fases da vida de um ser humano ocorrem alterações metabólicas e fisiológicas, e entre outras, que causam mudanças nas necessidades alimentares dos indivíduos. Segundo o SEBRAE o público com restrições alimentares, seja por opção própria ou por causas ligadas à saúde (alergias, intolerância, hábitos), não para de aumentar. Uma pesquisa realizada pela Nielsen em 63 países e 30 mil pessoas, mostrou que 36% dos consumidores têm alergia ou intolerância a um ou mais gêneros alimentícios. 64% responderam que seguem uma dieta que limita ou proíbe o consumo de alguns alimentos ou de alguns ingredientes. Além disso, a busca por alimentos saudáveis, orgânicos ou naturais, sem ingredientes industrializados, representa outra tendência: já foram R$93,6 bilhões em vendas de alimentos e bebidas saudáveis em 2016. A previsão é que esse número cresça 4,4% por ano até 2021. Esses números representam o crescimento de um público que opta por uma alimentação saudável, ainda que não possua restrições por motivos de saúde. Com isso temos um crescimento da categoria que se enquadra no comércio de produtos livres de glúten, alérgenos, lácteos ou carnes, etc.
+
 
 ## Problema
 O problema surgiu da ausência de sites especializados em fornecer opções de dietas com receitas variadas que atendam diferentes públicos em busca de diversos objetivos.
 
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
