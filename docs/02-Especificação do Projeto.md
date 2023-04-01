@@ -56,15 +56,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-| ID    | Descrição do Requisito  | Prioridade |
-|-------|-----------------------------------------|------------|
-| RF-01 | Receitas: o site pode oferecer uma variedade de receitas para diversos públicos, com restrições alimentares ou não.  | ALTA       | 
-| RF-02 | Lista de compras: o site pode oferecer uma funcionalidade para criar uma lista de compras com os ingredientes necessários para cada receita selecionada.   | BAIXA      |
-| RF-03 | Criação de perfil: a possibilidade de criar um perfil pessoal permite que os usuários salvem suas receitas favoritas e compartilhem suas próprias receitas com outros usuários.   | MÉDIA      |
-| RF-04 | Sugestões de receitas relacionadas: o site pode oferecer sugestões de receitas relacionadas com base nas receitas já pesquisadas pelo usuário.   | MÉDIA      |
-| RF-05 | Compartilhamento nas redes sociais: a possibilidade de compartilhar as receitas nas redes sociais pode ajudar a aumentar a visibilidade do site e permitir que os usuários compartilhem receitas interessantes com seus amigos e familiares.   | MÉDIA      |
-| RF-06 | O site poderá permitir que os usuários avaliem e comentem sobre a receita que já realizaram.   | MÉDIA      |
-| RF-07 | O site mostrará os comentários juntamente com as receitas   | MÉDIA      |
+| ID      | Descrição do Requisito  | Prioridade |
+|---------|-----------------------------------------|------------|
+| RF-01   | Receitas: o site pode oferecer uma variedade de receitas para diversos públicos, com restrições alimentares ou não.  | ALTA       | 
+| RF-02   | Lista de compras: o site pode oferecer uma funcionalidade para criar uma lista de compras com os ingredientes necessários para cada receita selecionada.   | BAIXA      |
+| RF-03   | Criação de perfil: a possibilidade de criar um perfil pessoal permite que os usuários salvem suas receitas favoritas e compartilhem suas próprias receitas com outros usuários.   | MÉDIA      |
+| RF-04   | Sugestões de receitas relacionadas: o site pode oferecer sugestões de receitas relacionadas com base nas receitas já pesquisadas pelo usuário.   | MÉDIA      |
+| RF-05   | Compartilhamento nas redes sociais: a possibilidade de compartilhar as receitas nas redes sociais pode ajudar a aumentar a visibilidade do site e permitir que os usuários compartilhem receitas interessantes com seus amigos e familiares.   | MÉDIA      |
+| RF-06   | O site poderá permitir que os usuários avaliem e comentem sobre a receita que já realizaram.   | MÉDIA      |
+| RF-07   | O site mostrará os comentários juntamente com as receitas   | MÉDIA      |
 
 ### Requisitos não Funcionais
 
