@@ -17,24 +17,13 @@ Informar juntamente com as receitas índice calórico do prato final.<br />
 Ser um ambiente de fácil acesso.<br />
 Permitir a escolha de ingredientes ou a seleção de restrições.
 
-
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 
 A ideia se justifica pela falta de ambientes que disponibilizam informações para pessoas que seguem uma dieta especial, seja ela sem glúten, sem lactose, para hipertensos, pessoas com colesterol alto, vegetarianos, veganos ou mesmo que queiram realizar uma receita com algum ingrediente específico.
 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
 O público é extremamente amplo. Pessoas que procuram receitas específicas a partir de um ingrediente, pessoas com restrições alimentares, curiosos. Em resumo são pessoas conectadas, que usam da internet como ferramenta para facilitar a rotina do dia-a-dia, preocupadas com sua alimentação ou em busca de receitas específicas.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
