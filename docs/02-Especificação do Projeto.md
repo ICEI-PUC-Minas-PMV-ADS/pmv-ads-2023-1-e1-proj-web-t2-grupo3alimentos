@@ -3,25 +3,40 @@
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> O projeto visa disponibilizar esse ambiente com receitas para o público com necessidades específicas. Possuímos atualmente poucos espaços com esse intuito e a estimativa é de que, nos próximos cinco anos, o comércio de produtos “free from” tenha um aumento de 6,3% por ano, alcançando a receita de R$2,52 bilhões em 2022. Com isso, tendências promissoras podem surgir, como criação de lojas especializadas; clubes de assinaturas; restaurantes veganos; lanchonetes fitness; cafeterias sem lactose, entre outros.
 </a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+## Ana Freitas 
+Idade: 33 anos
+Profissão: Dançarina profissional
+Personalidade: Ana é uma pessoa determinada, disciplinada e focada em sua carreira. Ela é apaixonada por dança e dedica grande parte de seu tempo para aprimorar suas habilidades. Ana é ativa e gosta de se exercitar, além de ter um grande interesse em alimentação saudável e fitness.
+Histórico de saúde: Ana nunca teve problemas de saúde sérios, mas sabe que uma alimentação adequada pode melhorar seu desempenho como dançarina. Ela procura sempre comer de forma equilibrada e saudável, evitando alimentos processados e ricos em açúcar.
+Desafios: Como dançarina, Ana precisa manter um corpo forte e saudável, e sabe que a alimentação é parte importante desse processo. Ela tem dificuldades em encontrar opções de alimentos saudáveis e nutritivos em lugares onde está viajando, como hotéis e restaurantes de fast-food. Ela também precisa garantir que sua dieta forneça a quantidade adequada de proteínas para manter a saúde muscular.
+Objetivos: Ana deseja encontrar um plano alimentar que seja adaptado às suas necessidades como dançarina, que forneça energia para suas atividades e ajude a manter um corpo forte e saudável. Ela procura alimentos ricos em proteínas, vitaminas e minerais, além de suplementos que possam ajudá-la a alcançar seus objetivos de forma saudável. Ana está disposta a aprender sobre novos alimentos e receitas saudáveis para incluir em sua rotina alimentar.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+## Luiza 
+Idade: 28 anos
+Profissão: Estudante de medicina
+Personalidade: Luiza é uma jovem ativa, alegre e animada. Ela gosta de praticar esportes, viajar e experimentar novos pratos. Ela é muito dedicada aos estudos e tem um grande interesse em nutrição e saúde.
+Histórico de saúde: Luiza foi diagnosticada com intolerância à lactose há cerca de dois anos. Desde então, ela tem evitado consumir produtos lácteos e tem se esforçado para encontrar alternativas saudáveis e saborosas.
+Desafios: Luiza tem dificuldades para encontrar opções de alimentos que não contenham lactose em restaurantes e lanchonetes. Ela também se preocupa em obter a quantidade adequada de cálcio e outros nutrientes que são encontrados em produtos lácteos. Além disso, ela precisa estar atenta aos rótulos dos alimentos para evitar ingredientes que possam conter lactose oculta.
+Objetivos: Luiza quer aprender mais sobre nutrição e saúde, especialmente em relação à sua intolerância à lactose. Ela deseja encontrar novas receitas e opções de alimentos que possam suprir suas necessidades nutricionais, sem abrir mão do sabor e da variedade.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+## Pedro Gonçalves 
+Idade: 35
+Profissão: Desenvolvedor de sistemas
+Personalidade: Pedro é um jovem sedentário, desanimado que não tem disposição física. Ele passa muitas horas do dia sentado focado em seu trabalho.
+Histórico de saúde: Pedro foi diagnosticado com hipertensão, colesterol alto e diabetes.
+Desafios: Pedro  tem dificuldades para encontrar opções de alimentos saudáveis que sejam práticos e ao mesmo tempo sem açúcar, com baixo teor de sal e gordura
+Objetivos: Pedro  quer melhorar sua saúde com opções de alimentos saudáveis, para que ele tenha disposição física para praticar atividades físicas.
+
+## João Norman 
+Idade: 26
+Profissão:  Estudante de Veterinária
+Personalidade: Com ideais de uma vida mais saudável, João é um universitário ativo, que se exercita regularmente e praticante de corridas.
+Histórico de Saúde: Saudável, sem conhecimento de nenhuma doença ou restrição alimentar fisiológica.
+Desafios: João depois que se tornou vegano, percebeu que tem dificuldades de encontrar alimentos veganos, para seu novo estilo de vida alimentar, em especial alimentos para substituir a proteína animal.
+Objetivo: João quer permanecer com seu estilo de vida saudável, no entanto, precisa consumir alimentos que não levam em sua composição nada que provenha de fonte animal, e tem conhecimento que precisa suprir isso em outros tipos de alimentos.
 
 ## Histórias de Usuários
 
