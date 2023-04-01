@@ -67,13 +67,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos não Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-------------------------|------------|
-|<nobr>RNF-01| Responsivo: o site pode ser visualizado facilmente em diferentes dispositivos, como desktops, laptops, tablets e smartphones, sem precisar de zoom ou rolagem horizontal. | ALTA       | 
-|RNF-02| Navegabilidade: a interface do site deve ser simples e fácil de navegar, para que os usuários possam encontrar rapidamente as receitas que estão procurando. | ALTA       | 
-|RNF-02| Navegabilidade: a interface do site deve ser simples e fácil de navegar, para que os usuários possam encontrar rapidamente as receitas que estão procurando. | ALTA       | 
-|RNF-02| Linguagem simples: a linguagem utilizada no site deve ser simples e acessível para que todos os usuários possam entender as informações presentes. | MÉDIA      | 
-|RNF-02| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).| ALTA       | 
+| ID            | Descrição do Requisito  | Prioridade |
+|---------------|-------------------------|------------|
+| <nobr>RNF-01a | Responsivo: o site pode ser visualizado facilmente em diferentes dispositivos, como desktops, laptops, tablets e smartphones, sem precisar de zoom ou rolagem horizontal. | ALTA       | 
+| RNF-02        | Navegabilidade: a interface do site deve ser simples e fácil de navegar, para que os usuários possam encontrar rapidamente as receitas que estão procurando. | ALTA       | 
+| RNF-02        | Navegabilidade: a interface do site deve ser simples e fácil de navegar, para que os usuários possam encontrar rapidamente as receitas que estão procurando. | ALTA       | 
+| RNF-02        | Linguagem simples: a linguagem utilizada no site deve ser simples e acessível para que todos os usuários possam entender as informações presentes. | MÉDIA      | 
+| RNF-02        | O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).| ALTA       | 
 
 
 - [Requisitos Funcionais
