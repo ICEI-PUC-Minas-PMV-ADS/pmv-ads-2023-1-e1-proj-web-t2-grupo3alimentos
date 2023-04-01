@@ -42,19 +42,13 @@ Objetivo: João quer permanecer com seu estilo de vida saudável, no entanto, pr
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| EU COMO... `PERSONA` | QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|----------------------|------------------------------------|----------------------------------------|
+| Ana                  | Ana deseja encontrar receitas que sejam adaptadas às suas necessidades como dançarina. Além disso, Ana quer ter a possibilidade de compartilhar e comentar as receitas que ela experimentou.           | Porque se preocupa em consumir alimentos que forneçam energia para suas atividades e ajudem a manter um corpo forte e saudável.              |
+| Luiza                | Luiza quer aprender mais sobre nutrição e saúde, especialmente em relação à sua intolerância à lactose. E deseja salvar suas receitas favoritas e assim receber sugestões de receitas semelhantes às que salvou.                 | Porque ela procura novas receitas e opções de alimentos que possam suprir suas necessidades nutricionais, sem abrir mão do sabor e da variedade. |
+| Pedro                | Pedro busca perder peso, ele precisa de alimentos saudáveis, para alcançar seus objetivos e ter opções balanceadas. Pedro quer ter uma opção de criação de lista de compras para realizar suas receitas com os produtos certos.                 | Porque ele procura receitas fáceis e práticas para o dia a dia, pois não tem muita disposição para cozinhar. |
+| João                 | João busca encontrar opções para novo estilo de vida alimentar, a vegana, em especial para suprir as necessidades da proteína animal.                 | João se tornou vegano, durante o seu curso de veterinária, ao compreender os efeitos da indústria alimentícia aos animais, e o sofrimento dos mesmo. |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
@@ -62,11 +56,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+| ID     | Descrição do Requisito  | Prioridade |
+|--------|-----------------------------------------|----|
+| RF-001 | Receitas: o site pode oferecer uma variedade de receitas para diversos públicos, com restrições alimentares ou não.  | ALTA | 
+| RF-002 | Lista de compras: o site pode oferecer uma funcionalidade para criar uma lista de compras com os ingredientes necessários para cada receita selecionada.   | MÉDIA |
+| RF-003 | Criação de perfil: a possibilidade de criar um perfil pessoal permite que os usuários salvem suas receitas favoritas e compartilhem suas próprias receitas com outros usuários.   | MÉDIA |
+| RF-004 | Sugestões de receitas relacionadas: o site pode oferecer sugestões de receitas relacionadas com base nas receitas já pesquisadas pelo usuário.   | MÉDIA |
+| RF-005 | Compartilhamento nas redes sociais: a possibilidade de compartilhar as receitas nas redes sociais pode ajudar a aumentar a visibilidade do site e permitir que os usuários compartilhem receitas interessantes com seus amigos e familiares.   | MÉDIA |
+| RF-005 | O site poderá permitir que os usuários avaliem e comentem sobre a receita que já realizaram.   | MÉDIA |
+| RF-005 | O site mostrará os comentários juntamente com as receitas   | MÉDIA |
 
 ### Requisitos não Funcionais
 
