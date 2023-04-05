@@ -13,7 +13,7 @@ O objetivo geral deste trabalho é oferecer um espaço que contenha uma variedad
 
 * Camila Fernanda Cerqueira França
 * Carolina Novaes Leite
-* Nome completo do aluno 3
+* Rosimeire de Fátima Carvalho
 * Ruan Santos Gonzaga
 
 ## Orientador
