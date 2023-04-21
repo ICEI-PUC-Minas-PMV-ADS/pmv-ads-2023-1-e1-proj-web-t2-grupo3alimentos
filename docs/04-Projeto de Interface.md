@@ -19,20 +19,28 @@ Neste projeto a Home page, se apresenta da seguinte forma:
 **Cabeçalho** - nesta parte está tudo o que é fixo, permite uma visão clara de todas as informações e conteúdos possíveis de serem encontrados, sem muitos cliques o usuário encontra as informações, o que facilita a pesquisa.
 <br>**Logomarca** - foi disposta na parte central do site propositalmente, o objetivo é de chamar a atenção para o conteúdo de cada página.
 <br>**Login** - no canto superior do lado direito, foi criado o espaço para login do nosso usuário, cujo o cadastro é bem simples e rápido.
-
-
 ![Exemplo de Wireframe](img/wireframe-example01.png)
-Página de receitas:
+
+As páginas do site, estão divididas da seguinte forma: “Home page”, “Receitas”, “Notícias”, “Sobre nós” e “Envie sua receita”, há uma grande preocupação quanto a qualidade do site e dos conteúdos, para que sejam sempre confiáveis e atualizados.
+<br>
+**Página de receitas**:
+<br>
+Como pode ser visto abaixo, na parte superior da página, o campo de pesquisa está bem localizado o que estimula a interação com site:
 ![Exemplo de Wireframe](img/wireframe-example02.png)
-Página da receita selecionada:
+**Página da receita selecionada**:
+<br>
+As receitas são muito importantes, pois estão atreladas ao objetivo principal desse site, além do campo de busca, o usuário sempre terá conteúdos recentes para auxiliar e ao mesmo tempo estimular a escolha pelos pratos, a partir das sugestões.
 ![Exemplo de Wireframe](img/wireframe-example03.png)
-Notícias:
+<br>
+A apresentação da receita também foi estruturada de uma forma padronizada e organizada, qualquer receita do site, deve seguir todos os critérios da plataforma, como pode ser visto a seguir, a ordem estabelecida foi : nome de prato, ingredientes, modo de preparo e avaliação de outros usuários.
+**Notícias**:
+As notícias são sempre para agregar conhecimento aos usuários o que estimula uma reflexão acerca de cuidados, hábitos e comportamentos, no caso do site, ela sempre é uma atualidade na área da alimentação.
 ![Exemplo de Wireframe](img/wireframe-example04.png)
-Notícia aberta:
+**Notícia aberta**:
 ![Exemplo de Wireframe](img/wireframe-example05.png)
-Sobre Nós:
+**Sobre Nós**:
 ![Exemplo de Wireframe](img/wireframe-example06.png)
-Enviar a sua receita:
+**Enviar a sua receita**:
 ![Exemplo de Wireframe](img/wireframe-example07.png)
 
 
