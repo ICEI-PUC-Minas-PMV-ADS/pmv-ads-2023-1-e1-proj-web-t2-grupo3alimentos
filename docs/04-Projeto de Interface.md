@@ -23,6 +23,7 @@ Neste projeto a Home page, se apresenta da seguinte forma:
 
 As páginas do site, estão divididas da seguinte forma: “Home page”, “Receitas”, “Notícias”, “Sobre nós” e “Envie sua receita”, há uma grande preocupação quanto a qualidade do site e dos conteúdos, para que sejam sempre confiáveis e atualizados.
 <br>
+<br>
 **Página de receitas**:
 <br>
 Como pode ser visto abaixo, na parte superior da página, o campo de pesquisa está bem localizado o que estimula a interação com site:
