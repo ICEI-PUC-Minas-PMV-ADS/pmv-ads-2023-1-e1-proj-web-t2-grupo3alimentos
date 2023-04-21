@@ -39,10 +39,18 @@ A apresentação da receita também foi estruturada de uma forma padronizada e o
 **Notícias**:
 As notícias são sempre para agregar conhecimento aos usuários o que estimula uma reflexão acerca de cuidados, hábitos e comportamentos, no caso do site, ela sempre é uma atualidade na área da alimentação.
 ![Exemplo de Wireframe](img/wireframe-example04.png)
+<br>
+<br>
 **Notícia aberta**:
+<br>Ao clicar em uma notícia, o usuário tem acesso a todo o conteúdo, mantendo os padrões do site, vejam como a imagem da tela de notícias de forma detalhada:
 ![Exemplo de Wireframe](img/wireframe-example05.png)
+<br>
+<br>
 **Sobre Nós**:
+<br> É a página que cria conexão entre o usuário e a organização, nela a empresa apresenta a sua história, formação, objetivos e etc.
 ![Exemplo de Wireframe](img/wireframe-example06.png)
+<br>
+<br>
 **Enviar a sua receita**:
 ![Exemplo de Wireframe](img/wireframe-example07.png)
 
