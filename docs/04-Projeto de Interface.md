@@ -28,7 +28,7 @@ Página de receitas:
 ![Exemplo de Wireframe](img/wireframe-example02.png)
 Página da receita selecionada:
 ![Exemplo de Wireframe](img/wireframe-example03.png)
-
+Notícias: 
 ![Exemplo de Wireframe](img/wireframe-example04.png)
 
 ![Exemplo de Wireframe](img/wireframe-example05.png)
