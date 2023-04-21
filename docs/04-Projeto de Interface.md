@@ -45,7 +45,6 @@ As notícias são sempre para agregar conhecimento aos usuários o que estimula 
 <br>Ao clicar em uma notícia, o usuário tem acesso a todo o conteúdo, mantendo os padrões do site, vejam como a imagem da tela de notícias de forma detalhada:
 ![Exemplo de Wireframe](img/wireframe-example05.png)
 <br>
-<br>
 **Sobre Nós**:
 <br> É a página que cria conexão entre o usuário e a organização, nela a empresa apresenta a sua história, formação, objetivos e etc.
 ![Exemplo de Wireframe](img/wireframe-example06.png)
