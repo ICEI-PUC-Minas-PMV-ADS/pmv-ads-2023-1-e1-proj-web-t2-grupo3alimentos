@@ -49,10 +49,15 @@ As notícias são sempre para agregar conhecimento aos usuários o que estimula 
 **Sobre Nós**:
 <br> É a página que cria conexão entre o usuário e a organização, nela a empresa apresenta a sua história, formação, objetivos e etc.
 ![Exemplo de Wireframe](img/wireframe-example06.png)
+<br> A apresentação da equipe com foto de todos os componentes, gera pessoalidade e isso aproxima os usuários que se identificam.
 <br>
 <br>
 **Enviar a sua receita**:
+<br>
+É um ambiente pensado como 100% colaborativo e integrativo, é uma oportunidade para o site de ter muitos conteúdos, uma vez que esse quantitativo tende sempre a aumentar assim como a valorização e incentivo do empenho dos usuários.
 ![Exemplo de Wireframe](img/wireframe-example07.png)
+<br>
+Na plataforma a receita pode ser enviada de duas formas: a primeira através de um carregamento de arquivo e preenchimento do formulário, como demonstrado na imagem acima.
 
 
 
