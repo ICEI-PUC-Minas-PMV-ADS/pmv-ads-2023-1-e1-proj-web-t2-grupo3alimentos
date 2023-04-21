@@ -28,8 +28,12 @@ Página de receitas:
 ![Exemplo de Wireframe](img/wireframe-example02.png)
 Página da receita selecionada:
 ![Exemplo de Wireframe](img/wireframe-example03.png)
-Notícias: 
-![Exemplo de Wireframe](img/wireframe-example08.png)
+Notícias:
+![Exemplo de Wireframe](img/wireframe-example04.png)
+Sobre Nós:
+![Exemplo de Wireframe](img/wireframe-example06.png)
+Enviar a sua receita:
+![Exemplo de Wireframe](img/wireframe-example07.png)
 
 
 
