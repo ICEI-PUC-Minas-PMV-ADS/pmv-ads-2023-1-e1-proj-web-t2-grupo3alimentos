@@ -33,6 +33,8 @@ As receitas são muito importantes, pois estão atreladas ao objetivo principal 
 ![Exemplo de Wireframe](img/wireframe-example03.png)
 <br>
 A apresentação da receita também foi estruturada de uma forma padronizada e organizada, qualquer receita do site, deve seguir todos os critérios da plataforma, como pode ser visto a seguir, a ordem estabelecida foi : nome de prato, ingredientes, modo de preparo e avaliação de outros usuários.
+<br>
+<br>
 **Notícias**:
 As notícias são sempre para agregar conhecimento aos usuários o que estimula uma reflexão acerca de cuidados, hábitos e comportamentos, no caso do site, ela sempre é uma atualidade na área da alimentação.
 ![Exemplo de Wireframe](img/wireframe-example04.png)
