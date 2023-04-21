@@ -3,26 +3,24 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
+Para a criação de um site, alguns pontos precisam ser considerados, em primeiro lugar ele deve ser eficaz, fácil de usar, intuitivo e atraente visualmente. O site foi projetado com uma estrutura de navegação clara e organizada, tornando fácil para os usuários encontrarem o que estão procurando. Outro aspecto fundamental é o conteúdo, relevante e bem escrito. Nele podemos ver imagens de alta qualidade, o que gera interação e o interesse por parte dos usuários.
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
-
-## User Flow
-
-![Exemplo de UserFlow](img/userflow.jpg)
-
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
-
+<br>**Telas do usário**:
+![Exemplo de Wireframe](img/wireframe-example.png)
 
 ## Wireframes
+Os Wireframes são esboços do projeto de um site, que represetam de uma forma visual e básica a estrutura do site, nas páginas a seguir, veja o detalhamento de cada uma dessas páginas.
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
-Home:
+**Home**:
+<br> A Home page é uma de grande importância no site, pois é a página que o que o usuário visualiza primeiro e essa impressão inicial é determinante.
+Neste projeto a Home page, se apresenta da seguinte forma:
+<br>
+**Cabeçalho** - nesta parte está tudo o que é fixo, permite uma visão clara de todas as informações e conteúdos possíveis de serem encontrados, sem muitos cliques o usuário encontra as informações, o que facilita a pesquisa.
+<br>**Logomarca** - foi disposta na parte central do site propositalmente, o objetivo é de chamar a atenção para o conteúdo de cada página.
+<br>**Login** - no canto superior do lado direito, foi criado o espaço para login do nosso usuário, cujo o cadastro é bem simples e rápido.
+
+
 ![Exemplo de Wireframe](img/wireframe-example01.png)
 Página de receitas:
 ![Exemplo de Wireframe](img/wireframe-example02.png)
