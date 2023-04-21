@@ -30,6 +30,8 @@ Página da receita selecionada:
 ![Exemplo de Wireframe](img/wireframe-example03.png)
 Notícias:
 ![Exemplo de Wireframe](img/wireframe-example04.png)
+Notícia aberta:
+![Exemplo de Wireframe](img/wireframe-example05.png)
 Sobre Nós:
 ![Exemplo de Wireframe](img/wireframe-example06.png)
 Enviar a sua receita:
