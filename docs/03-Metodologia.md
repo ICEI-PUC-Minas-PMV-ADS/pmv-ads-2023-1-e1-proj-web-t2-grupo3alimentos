@@ -32,21 +32,21 @@ A equipe adota metodologias ágeis para gerenciar o processo de desenvolvimento 
 
 A equipe está organizada da seguinte maneira:
 
-•	Scrum Master/Designer: Camila França
+•	**Scrum Master/Designer**: Camila França
 
-•	Product Owner/Desenvolvedor: Paulo Henrique e Rosimeire Carvalho
+•	**Product Owner/Desenvolvedor**: Paulo Henrique e Rosimeire Carvalho
 
-•	Desenvolvedor/Designer: Ruan Gonzaga e Carolina Novaes
+•	**Desenvolvedor/Designer**: Ruan Gonzaga e Carolina Novaes
 
 Com o intuito de planejar e compartilhar as atividades do projeto, a equipe está empregando a ferramenta de gerenciamento de tarefas GitHub Project. Essa ferramenta está organizada em listas que apresentam as etapas e andamento do projeto:
 
-•	Backlog: A lista de tarefas a serem trabalhadas, também conhecida como Product Backlog, é recebida pela equipe e deve incluir todas as atividades relacionadas ao projeto, identificadas ao longo do seu desenvolvimento.
+•	**Backlog**: A lista de tarefas a serem trabalhadas, também conhecida como Product Backlog, é recebida pela equipe e deve incluir todas as atividades relacionadas ao projeto, identificadas ao longo do seu desenvolvimento.
 
-•	To Do: Esta lista representa o Sprint, que mostra no que estamos trabalhando atualmente.
+•	**To Do**: Esta lista representa o Sprint, que mostra no que estamos trabalhando atualmente.
 
-•	In Progress: Esta seção é representada pelas tarefas que já foram iniciadas e que estão em andamento.
+•	**In Progress**: Esta seção é representada pelas tarefas que já foram iniciadas e que estão em andamento.
 
-•	Done: Nessa lista são incluídas as tarefas que foram submetidas aos testes, e que não requerem mais edições ou revisões, portanto, estão prontas para serem entregues.
+•	**Done**: Nessa lista são incluídas as tarefas que foram submetidas aos testes, e que não requerem mais edições ou revisões, portanto, estão prontas para serem entregues.
 
 O quadro KANBAN desenvolvido no GitHub Projects pelo grupo, está disponível através da URL: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/384/views/1. E é representado, no estado atual, pela imagem a seguir:
 
@@ -57,7 +57,7 @@ No desenvolvimento do projeto, são utilizadas diferentes ferramentas e platafor
 
 As ferramentas e plataformas empregadas no projeto são:
 
-| **AMBIENTE**                | PLATAFORMA      | LINK DE ACESSO                                                                                                                                       |
+| **AMBIENTE**                | **PLATAFORMA**      | **LINK DE ACESSO**                                                                                                                                       |
 |-----------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Repositório de código fonte | WebStorm/GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t2-grupo3alimentos  |
 | Documentação do Projeto     | Google Drive    | https://docs.google.com/document/d/1eQz3vJzpzjOoMl5-ymf3t4samYaen3zw-QKVTdIcuVk/edit |
