@@ -56,24 +56,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-| ID                 | Descrição do Requisito  | Prioridade |
-|--------------------|-----------------------------------------|------------|
-| <nobr>RF-01</nobr> | Receitas: o site pode oferecer uma variedade de receitas para diversos públicos, com restrições alimentares ou não.  | ALTA       | 
-| <nobr>RF-02</nobr> | Lista de compras: o site pode oferecer uma funcionalidade para criar uma lista de compras com os ingredientes necessários para cada receita selecionada.   | BAIXA      |
-| <nobr>RF-03</nobr> | Criação de perfil: a possibilidade de criar um perfil pessoal permite que os usuários salvem suas receitas favoritas e compartilhem suas próprias receitas com outros usuários.   | MÉDIA      |
-| <nobr>RF-05</nobr> | Compartilhamento nas redes sociais: a possibilidade de compartilhar as receitas nas redes sociais pode ajudar a aumentar a visibilidade do site e permitir que os usuários compartilhem receitas interessantes com seus amigos e familiares.   | MÉDIA      |
-| <nobr>RF-06</nobr> | O site poderá permitir que os usuários avaliem e comentem sobre a receita que já realizaram.   | MÉDIA      |
-| <nobr>RF-07</nobr> | O site mostrará os comentários juntamente com as receitas   | MÉDIA      |
+| ID          | Descrição do Requisito  | Prioridade |
+|-------------|-----------------------------------------|------------|
+| RF01  | Receitas: o site pode oferecer uma variedade de receitas para diversos públicos, com restrições alimentares ou não.  | ALTA       | 
+| RF-02 | Lista de compras: o site pode oferecer uma funcionalidade para criar uma lista de compras com os ingredientes necessários para cada receita selecionada.   | BAIXA      |
+| RF-03 | Criação de perfil: a possibilidade de criar um perfil pessoal permite que os usuários salvem suas receitas favoritas e compartilhem suas próprias receitas com outros usuários.   | MÉDIA      |
+| RF-05 | Compartilhamento nas redes sociais: a possibilidade de compartilhar as receitas nas redes sociais pode ajudar a aumentar a visibilidade do site e permitir que os usuários compartilhem receitas interessantes com seus amigos e familiares.   | MÉDIA      |
+| RF-06 | O site poderá permitir que os usuários avaliem e comentem sobre a receita que já realizaram.   | MÉDIA      |
+| RF-07 | O site mostrará os comentários juntamente com as receitas   | MÉDIA      |
 
 ### Requisitos não Funcionais
 
-| ID            | Descrição do Requisito  | Prioridade |
-|---------------|-------------------------|------------|
-| <nobr>RNF-01a | Responsivo: o site pode ser visualizado facilmente em diferentes dispositivos, como desktops, laptops, tablets e smartphones, sem precisar de zoom ou rolagem horizontal. | ALTA       | 
-| RNF-02        | Navegabilidade: a interface do site deve ser simples e fácil de navegar, para que os usuários possam encontrar rapidamente as receitas que estão procurando. | ALTA       | 
-| RNF-02        | Navegabilidade: a interface do site deve ser simples e fácil de navegar, para que os usuários possam encontrar rapidamente as receitas que estão procurando. | ALTA       | 
-| RNF-02        | Linguagem simples: a linguagem utilizada no site deve ser simples e acessível para que todos os usuários possam entender as informações presentes. | MÉDIA      | 
-| RNF-02        | O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).| ALTA       | 
+| ID      | Descrição do Requisito  | Prioridade |
+|---------|-------------------------|------------|
+| RNF-01  | Responsivo: o site pode ser visualizado facilmente em diferentes dispositivos, como desktops, laptops, tablets e smartphones, sem precisar de zoom ou rolagem horizontal. | ALTA       | 
+| RNF-02  | Navegabilidade: a interface do site deve ser simples e fácil de navegar, para que os usuários possam encontrar rapidamente as receitas que estão procurando. | ALTA       | 
+| RNF-02  | Navegabilidade: a interface do site deve ser simples e fácil de navegar, para que os usuários possam encontrar rapidamente as receitas que estão procurando. | ALTA       | 
+| RNF-02  | Linguagem simples: a linguagem utilizada no site deve ser simples e acessível para que todos os usuários possam entender as informações presentes. | MÉDIA      | 
+| RNF-02  | O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).| ALTA       | 
 
 
 - [Requisitos Funcionais
