@@ -4,6 +4,14 @@
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
+<br>Exemplo de Wireframe](img/home.jpg)
+<br>Exemplo de Wireframe](img/receitas 01.jpg)
+<br>Exemplo de Wireframe](img/receitas 02.jpg)
+<br>Exemplo de Wireframe](img/notícias 01.jpg)
+<br>Exemplo de Wireframe](img/noticias 02.jpg)
+
+
+
 > **Links Úteis**:
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
