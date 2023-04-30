@@ -20,7 +20,11 @@ Local onde são exibidas as notícias de forma simplificada e gerais.
 Tela de Visualização de Notícias
 Local onde são exibidas as notícias de forma completa após seleção.
 ]<br>![Exemplo de Template](Templates/noticias%2002.jpg)
+Tela Sobre Nós
+Tela onde são exibidas as informações sobre equipe, história e contato.
 <br>![Exemplo de Template](Templates/sobre%20nos.jpg)
+Tela de Envio de Receitas
+Local onde são exibidas as funções de colaboração e envio de receitas.
 <br>![Exemplo de Template](Templates/envie.jpg)
 
 
