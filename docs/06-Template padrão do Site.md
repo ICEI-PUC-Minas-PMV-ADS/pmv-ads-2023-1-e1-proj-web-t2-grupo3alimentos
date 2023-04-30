@@ -5,11 +5,12 @@
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
 <br>![Exemplo de Template](Templates/home.jpg)
-<br>![Exemplo de Template](Templates/receitas 01.jpg)
-<br>![Exemplo de Template](Templates/receitas 02.jpg)
-<br>![Exemplo de Template](Templates/notícias 01.jpg)
-<br>![Exemplo de Template](Templates/noticias 02.jpg)
-
+<br>![Exemplo de Template](Templates/Receitas%2001.jpg)
+<br>![Exemplo de Template](Templates/receitas%2002.jpg)
+<br>![Exemplo de Template](Templates/notícias%2001.jpg)
+<br>![Exemplo de Template](Templates/noticias%2002.jpg)
+<br>![Exemplo de Template](Templates/sobre%20nos.jpg)
+<br>![Exemplo de Template](Templates/envie.jpg)
 
 
 > **Links Úteis**:
