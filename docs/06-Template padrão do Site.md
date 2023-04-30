@@ -5,7 +5,6 @@
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
 <b>Tela Principal</b>
-
 Tela que abrange todas as visualizações iniciais do site e a lista de notícias gerais.
 
 ![Exemplo de Template](Templates/home.jpg)
@@ -19,6 +18,7 @@ Tela que abrange todas as visualizações iniciais do site e a lista de notícia
 <br>Local onde são exibidas as receitas de forma completa.
 
 ![Exemplo de Template](Templates/receitas%2002.jpg)
+
 <b>Tela de notícias </b>
 <br>Local onde são exibidas as notícias de forma simplificada e gerais.
 
