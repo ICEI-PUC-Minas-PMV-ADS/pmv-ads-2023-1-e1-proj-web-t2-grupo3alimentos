@@ -4,28 +4,37 @@
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-Tela Principal
+<b>Tela Principal</b>
+
 Tela que abrange todas as visualizações iniciais do site e a lista de notícias gerais.
 
-<br>![Exemplo de Template](Templates/home.jpg)
-Tela de receitas 
-Local onde são exibidas as receitas de forma simplificada.
-<br>![Exemplo de Template](Templates/Receitas%2001.jpg)
-Tela de receitas
-Local onde são exibidas as receitas de forma completa.
-<br>![Exemplo de Template](Templates/receitas%2002.jpg)
-Tela de notícias
-Local onde são exibidas as notícias de forma simplificada e gerais.
+![Exemplo de Template](Templates/home.jpg)
+
+<b>Tela de receitas</b>
+<br>Local onde são exibidas as receitas de forma simplificada.
+
+![Exemplo de Template](Templates/Receitas%2001.jpg)
+
+<b>Tela de receitas</b>
+<br>Local onde são exibidas as receitas de forma completa.
+
+![Exemplo de Template](Templates/receitas%2002.jpg)
+<b>Tela de notícias </b>
+<br>Local onde são exibidas as notícias de forma simplificada e gerais.
+
 <br>![Exemplo de Template](Templates/notícias%2001.jpg)
-Tela de Visualização de Notícias
+<b>Tela de Visualização de Notícias</b>
 Local onde são exibidas as notícias de forma completa após seleção.
-]<br>![Exemplo de Template](Templates/noticias%2002.jpg)
-Tela Sobre Nós
+]
+![Exemplo de Template](Templates/noticias%2002.jpg)
+<b>Tela Sobre Nós</b>
 Tela onde são exibidas as informações sobre equipe, história e contato.
-<br>![Exemplo de Template](Templates/sobre%20nos.jpg)
-Tela de Envio de Receitas
+
+![Exemplo de Template](Templates/sobre%20nos.jpg)
+<b>Tela de Envio de Receitas</b>
 Local onde são exibidas as funções de colaboração e envio de receitas.
-<br>![Exemplo de Template](Templates/envie.jpg)
+
+![Exemplo de Template](Templates/envie.jpg)
 
 
 > **Links Úteis**:
