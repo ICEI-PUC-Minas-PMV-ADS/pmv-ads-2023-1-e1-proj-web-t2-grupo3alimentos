@@ -5,7 +5,7 @@
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
 <b>Logo</b>
-![Exemplo de Template](Templates/logo.png)
+![Exemplo de Template](img/logo.png)
 
 <b>Tela Principal</b>
 Tela que abrange todas as visualizações iniciais do site e a lista de notícias gerais.
