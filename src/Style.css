@@ -1,0 +1,60 @@
+/*Cabecalho do Site */
+header {
+    height: 180px;
+    background-color: rgb(148, 195, 88);
+}
+.menu-principal {
+    float: right;
+    font-family: Arial;
+    font-size: larger;
+}
+
+/*Corpo do Site */
+
+
+.menu-principal > ul > li {
+    display: inline-block;
+    padding: 50px;
+    font-family: "Arial";
+}
+
+h1 {
+    font-family: "Blippo Black";
+}
+main {
+    height: 400px;
+    font-family: arial;
+    font-size: large;
+    color: black;
+}
+.produto-item {
+    width: 200px;
+    float: left;
+    padding: 0 10px;
+
+}
+
+.receita-item > img {
+
+}
+.sabor {
+    color: rgb(252, 198, 100);
+    display: inline-block;
+
+}
+/*Rodape do Site */
+
+footer {
+    clear: both;
+    height: 80px;
+    background-color: rgb(148, 195, 88);
+}
+.rodape {
+    float: right;
+    font-family: arial;
+
+}
+.rodape > ul >li {
+    display: inline-block;
+    padding: 20px;
+}
