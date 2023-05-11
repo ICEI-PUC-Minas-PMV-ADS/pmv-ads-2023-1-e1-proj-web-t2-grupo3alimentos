@@ -18,8 +18,14 @@ header {
     font-family: "Arial";
 }
 
+.containerDivs {
+    display:flex;
+    clear: both
+}
+
 h2 {
     font-family: "Blippo Black";
+
 }
 main {
     height: 100px;
