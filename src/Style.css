@@ -1,6 +1,6 @@
 /*Cabecalho do Site */
 header {
-    height: 90px;
+    height: 100px;
     background-color: rgb(148, 195, 88);
 }
 .menu-principal {
@@ -25,16 +25,16 @@ header {
 
 h2 {
     font-family: "Blippo Black";
+    font-size: 50px;
 
 }
-main {
-    height: 100px;
+.nomelogo {
     font-family: arial;
-    font-size: large;
+    font-size: 25px;
     color: black;
     text-align: center;
     float: right;
-    padding:60px;
+    padding:150px;
 }
 
 /*Rodape do Site */
@@ -47,6 +47,5 @@ footer {
 .rodape {
     text-align: center;
     font-family: arial;
-    color: white;
-
+    color: black;
 }
