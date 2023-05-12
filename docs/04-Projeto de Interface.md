@@ -37,7 +37,7 @@ A apresentação da receita também foi estruturada de uma forma padronizada e o
 <br>
 <br>
 **Notícias**:
-As notícias são sempre para agregar conhecimento aos usuários o que estimula uma reflexão acerca de cuidados, hábitos e comportamentos, no caso do site, ela sempre é uma atualidade na área da alimentação.
+As notícias são mostradas para agregar conhecimento aos usuários, o que estimula uma reflexão acerca de cuidados, hábitos e comportamentos, no caso do site, ela sempre é uma atualização na área da alimentação.
 ![Exemplo de Wireframe](img/wireframe-example04.png)
 <br>
 <br>
@@ -56,6 +56,6 @@ As notícias são sempre para agregar conhecimento aos usuários o que estimula 
 É um ambiente pensado como 100% colaborativo e integrativo, é uma oportunidade para o site de ter muitos conteúdos, uma vez que esse quantitativo tende sempre a aumentar assim como a valorização e incentivo do empenho dos usuários.
 ![Exemplo de Wireframe](img/wireframe-example07.png)
 <br>
-Na plataforma a receita pode ser enviada de duas formas: a primeira através de um carregamento de arquivo e preenchimento do formulário, como demonstrado na imagem acima.
+Na plataforma a receita pode ser enviada de duas formas: através de um carregamento de um arquivo ou pelo preenchimento do formulário, como demonstrado na imagem acima.
 
 
