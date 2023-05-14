@@ -1,15 +1,16 @@
 /*Cabecalho do Site */
 header {
-    height: 200px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100px;
     background-color: rgb(148, 195, 88);
 }
 .menu-principal {
     float: right;
     font-family: Arial;
     font-size: larger;
-    height: 200px;
-    display:flex;
-    align-items: center;
 }
 
 /*Corpo do Site */
@@ -20,9 +21,6 @@ header {
     padding: 30px;
     font-family: "Arial";
 }
-.menu-principal > ul > li:hover {
-    background-color: rgb(252, 198, 100);
-}
 
 .containerDivs {
     display:flex;
@@ -30,42 +28,8 @@ header {
 }
 
 h2 {
-    font-family: Arial;
+    font-family: "Blippo Black";
     font-size: 50px;
-    padding: 35px;
-
-}
-h1 {
-    font-family: Blippo Black;
-    position: absolute;
-    top: 15px;
-    left: 65px;
-}
-.logo{
-    position: absolute;
-    top: 45px;
-    left: 70px;
-}
-.coluna {
-    width: 20%;
-    float: right;
-    font-size: smaller;
-    text-align: center;
-
-}
-
-main {
-    height: 520px;
-    font-family: Arial;
-    font-size: larger;
-    color: black;
-    text-align: center;
-}
-
-.produto-item {
-    width: 200px;
-    float: left;
-    padding: 0 10px;
 
 }
 .nomelogo {
@@ -80,8 +44,12 @@ main {
 /*Rodape do Site */
 
 footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     clear: both;
-    height: 80px;
+    height: 125px;
     background-color: rgb(148, 195, 88);
 }
 .rodape {
@@ -89,3 +57,21 @@ footer {
     font-family: arial;
     color: black;
 }
+
+.column {
+    float: left;
+    width: 50%;
+    padding-top: 200px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+p {
+    margin-right: 50px;
+    padding-top: 10px;
+}
+
