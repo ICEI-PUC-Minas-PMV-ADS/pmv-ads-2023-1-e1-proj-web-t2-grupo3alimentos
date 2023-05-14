@@ -1,0 +1,167 @@
+/*Cabecalho do Site */
+header {
+    height: 200px;
+    background-color: rgb(148, 195, 88);
+}
+
+.menu-principal {
+    float: right;
+    font-family: Arial;
+    font-size: larger;
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+
+/*Corpo do Site */
+
+.menu-principal>ul>li {
+    display: inline-block;
+    padding: 50px;
+    font-family: Arial;
+    font-size: 25px;
+}
+
+.menu-principal>ul>li:hover {
+    background-color: rgb(252, 198, 100);
+}
+
+.logo {
+    position: absolute;
+    top: 40px;
+    left: 60px;
+}
+
+h5 {
+    font-family: Blippo Black;
+    position: absolute;
+    top: -30px;
+    left: 49px;
+    font-size: 36px;
+}
+
+main {
+    height: 800px;
+    font-family: arial;
+    font-size: large;
+    color: black;
+    text-align: center;
+}
+
+.selecionado {
+    text-align: center;
+    font-size: 50px;
+    padding: 35px;
+}
+
+.input-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input.caixa-texto-nome {
+    border: 1px solid #ccc;
+    padding: 5px;
+    font-size: 16px;
+    width: 350px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.input-wrapper1 {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+input.caixa-texto-ing {
+    border: 1px solid #ccc;
+    background-color: rgb(222, 236, 203);
+    padding: 5px;
+    font-size: 16px;
+    width: 500px;
+    height: 400px;
+}
+
+.input-wrapper2 {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    float: right;
+}
+
+input.caixa-texto-prep {
+    border: 1px solid #ccc;
+    background-color: rgb(222, 236, 203);
+    padding: 5px;
+    font-size: 16px;
+    width: 500px;
+    height: 400px;
+    margin-right: 10px;
+}
+
+.input-wrapper3 {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    float: left;
+}
+
+input.caixa-texto-tempoprep {
+    border: 1px solid #ccc;
+    background-color: rgb(222, 236, 203);
+    padding: 5px;
+    font-size: 16px;
+    width: 300px;
+    height: 50px;
+    margin-left: 10px;
+}
+
+.input-wrapper4 {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    float: left;
+}
+
+input.caixa-texto-porcoes {
+    border: 1px solid #ccc;
+    background-color: rgb(222, 236, 203);
+    padding: 5px;
+    font-size: 16px;
+    width: 300px;
+    height: 50px;
+    margin-left: 10px;
+}
+
+.receita-item>img {}
+
+.sabor {
+    color: rgb(252, 198, 100);
+    display: inline-block;
+
+}
+
+/*Rodape do Site */
+
+footer {
+    clear: both;
+    height: 80px;
+    background-color: rgb(148, 195, 88);
+}
+
+.rodape {
+    float: right;
+    font-family: arial;
+
+}
+
+.rodape>ul>li {
+    display: inline-block;
+    padding: 20px;
+}
