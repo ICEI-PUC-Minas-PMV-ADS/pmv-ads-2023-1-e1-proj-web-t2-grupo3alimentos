@@ -62,21 +62,19 @@ h1 {
     padding:150px;
 }
 
+
 /*Rodape do Site */
 
 footer {
-    position: relative;
-    left: 0;
-    bottom: 0;
-    width: 100%;
     clear: both;
-    height: 125px;
+    height: 80px;
     background-color: rgb(148, 195, 88);
 }
 .rodape {
     text-align: center;
     font-family: arial;
-    color: black;
+    color: white;
+
 }
 
 .column {
@@ -119,4 +117,3 @@ p {
     margin-right: 50px;
     padding-top: 10px;
 }
-

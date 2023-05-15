@@ -1,0 +1,103 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: rgb(148, 195, 88);
+    height: 130px;
+    padding: 5px;
+
+}
+
+.menu-principal {
+    float: right;
+    font-family: Arial;
+    font-size: 20px;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+}
+
+.menu-principal > ul > li {
+    padding: 30px;
+    display: inline-block;
+}
+
+.menu-principal > ul > li:hover {
+    background-color: rgb(252, 198, 100);
+}
+
+#divBuscahp {
+    background-color: rgb(238, 200, 129);
+    border:solid 1px #5f9ea0;
+    border-radius: 15px;
+    width: 400px;
+
+
+}
+
+#txtBuscahp {
+    background-color:transparent;
+    padding-left: 5px;
+    font-style: italic;
+    font-size: 18px;
+    height: 32px;
+    width: 260px;
+    border: none;
+    text-align: center;
+}
+
+.containerDivshp {
+    display: flex;
+    margin: 8px;
+    vertical-align: top;
+
+
+}
+
+.conteudohp {
+    display: inline-block;
+    width: calc(35% - 25px);
+    background-color: rgb(234, 221, 198);
+    vertical-align: top;
+    margin: 8px;
+    border: 1px solid #777;
+}
+
+.imagemlogohp {
+    height: 400px;
+    width: 400px;
+
+}
+
+.nomelogohp {
+    font-family: arial;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    float: right;
+    height: 400px;
+    width: 400px;
+}
+
+.h1hp{
+    text-align: center;
+}
+.h2hp {
+    font-family: "Blippo Black";
+    font-size: 36px
+}
+
+
+footer {
+    clear: both;
+    height: 80px;
+    background-color: rgb(148, 195, 88);
+}
+.rodape {
+    text-align: center;
+    font-family: arial;
+    color: white;
+
+}
