@@ -4,25 +4,27 @@ body {
 }
 
 header {
+    height: 200px;
     background-color: rgb(148, 195, 88);
-    height: 130px;
-    padding: 5px;
-
 }
+
 
 .menu-principal {
     float: right;
     font-family: Arial;
-    font-size: 20px;
     font-size: larger;
+    height: 200px;
     display: flex;
     align-items: center;
 }
 
-.menu-principal > ul > li {
-    padding: 30px;
+.menu-principal>ul>li {
     display: inline-block;
+    padding: 50px;
+    font-family: Arial;
+    font-size: 25px;
 }
+
 
 .menu-principal > ul > li:hover {
     background-color: rgb(252, 198, 100);
@@ -63,6 +65,7 @@ header {
     vertical-align: top;
     margin: 8px;
     border: 1px solid #777;
+    text-align: justify;
 }
 
 .imagemlogohp {
@@ -77,14 +80,15 @@ header {
     font-size: 20px;
     color: black;
     text-align: center;
-    float: right;
-    height: 400px;
+    float:right;
+    height: 300px;
     width: 400px;
     padding-left: 100px;
 }
 
 .h1hp{
     text-align: center;
+    font-size: 14px;
 }
 
 .h2hp {
@@ -102,8 +106,12 @@ footer {
     background-color: rgb(148, 195, 88);
 }
 .rodape {
-    text-align: center;
+    float: right;
     font-family: arial;
-    color: white;
 
+}
+
+.rodape>ul>li {
+    display: inline-block;
+    padding: 20px;
 }
