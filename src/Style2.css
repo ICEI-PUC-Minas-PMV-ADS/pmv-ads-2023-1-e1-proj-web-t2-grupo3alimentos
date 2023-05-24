@@ -1,3 +1,7 @@
+body{
+    margin:0px;
+    paddind: 0px;
+}
 /*Cabecalho do Site */
 header {
     height: 200px;
@@ -47,7 +51,12 @@ main {
     color: black;
     text-align: center;
 }
+h2 {
+    font-family: Arial;
+    font-size: 30px;
+    padding: 35px;
 
+}
 .selecionado {
     text-align: center;
     font-size: 50px;
@@ -145,6 +154,25 @@ input.caixa-texto-porcoes {
     color: rgb(252, 198, 100);
     display: inline-block;
 
+}
+.p {
+    text-align: center;
+    font-size: medium;
+    font-family: Arial;
+    font-weight: normal;
+}
+div2 {
+    display: inline-block;
+    width: calc(19% - 16px);
+    vertical-align: top;
+    margin: 8px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+div2 p img {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
 }
 
 /*Rodape do Site */
