@@ -59,13 +59,15 @@ header {
 }
 
 .conteudohp {
-    display: inline-block;
+    display:inline-table;
     width: calc(35% - 25px);
     background-color: rgb(234, 221, 198);
     vertical-align: top;
-    margin: 8px;
+    margin: 15px;
+    margin-left: 100px;
     border: 1px solid #777;
     text-align: justify;
+
 }
 
 .imagemlogohp {

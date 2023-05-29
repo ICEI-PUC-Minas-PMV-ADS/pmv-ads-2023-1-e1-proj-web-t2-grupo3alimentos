@@ -1,0 +1,106 @@
+body{
+    margin:0px;
+    paddind: 0px;
+}
+/*Cabecalho do Site */
+header {
+    height: 200px;
+    background-color: rgb(148, 195, 88);
+}
+
+.menu-principal {
+    float: right;
+    font-family: Arial;
+    font-size: larger;
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+
+/*Corpo do Site */
+
+.menu-principal>ul>li {
+    display: inline-block;
+    padding: 50px;
+    font-family: Arial;
+    font-size: 25px;
+}
+
+.menu-principal>ul>li:hover {
+    background-color: rgb(252, 198, 100);
+}
+
+.logo {
+    position: absolute;
+    top: 40px;
+    left: 60px;
+}
+
+h5 {
+    font-family: Blippo Black;
+    position: absolute;
+    top: -30px;
+    left: 49px;
+    font-size: 36px;
+}
+.receita-item>img {}
+
+.sabor {
+    color: rgb(252, 198, 100);
+    display: inline-block;
+
+}
+.p {
+    text-align: center;
+    font-size: medium;
+    font-family: Arial;
+    font-weight: normal;
+}
+div2 {
+    display: inline-block;
+    width: calc(19% - 16px);
+    vertical-align: top;
+    margin: 8px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+div2 p img {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+main {
+    height: 800px;
+    font-family: arial;
+    font-size: large;
+    color: grey;
+    text-align: center;
+}
+main p {
+    text-align: justify;
+    color: black;
+    position: absolute;
+    margin-left: 80px;
+    margin-right: 80px;
+
+}
+
+/*Rodape do Site */
+
+footer {
+    clear: both;
+    height: 80px;
+    background-color: rgb(148, 195, 88);
+}
+
+.rodape {
+    float: right;
+    font-family: arial;
+
+}
+
+.rodape>ul>li {
+    display: inline-block;
+    padding: 20px;
+}
