@@ -70,12 +70,20 @@ footer {
     height: 80px;
     background-color: rgb(148, 195, 88);
 }
+
+
+
 .rodape {
-    text-align: center;
+    float: right;
     font-family: arial;
-    color: white;
 
 }
+
+.rodape>ul>li {
+    display: inline-block;
+    padding: 20px;
+}
+
 
 .column {
     float: left;
@@ -116,4 +124,6 @@ main {
 p {
     margin-right: 50px;
     padding-top: 10px;
-}
+
+
+
