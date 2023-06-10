@@ -15,7 +15,7 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 <br> Todos os menus estão direcionando para o local correto. 
 <br>
 <imgs/testes/linkreceita.png>
-<br> 2-Testes da responsividade.
+ 2-Testes da responsividade.
 <br> 3-Testes do compartilhamento de redes sociais.
 </br>
 </br>
