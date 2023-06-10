@@ -26,7 +26,9 @@ function validarFormulario() {
 
     if (loginInput.value.trim() === "" || senhaInput.value.trim() === "") {
         alert("Por favor, preencha todos os campos.");
+    } else if (senhaInput.value.length < 8) {
+        alert("A senha deve ter no mínimo 8 caracteres.");
     } else {
-        window.location.href = "../telas/Index.html"; // Substitua "index.html" pela URL da página para a qual deseja redirecionar
+        window.location.href = "index.html"; // Substitua "index.html" pela URL da página para a qual deseja redirecionar
     }
 }
