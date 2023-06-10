@@ -7,5 +7,8 @@ document.addEventListener("DOMContentLoaded", function() {
         if (email) {
             alert("E-mail enviado com sucesso para: " + email);
         }
+        else {
+            alert("E-mail não encontrado!");
+        }
     });
 });
