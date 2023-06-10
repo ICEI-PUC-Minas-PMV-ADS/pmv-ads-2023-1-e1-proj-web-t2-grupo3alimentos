@@ -8,5 +8,19 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
 
+
+<br>
+<h2>Testes da página de receitas e as páginas que se desdobram dela. </h2>
+<br> 1-Testes dos links.
+<br> Todos os menus estão direcionando para o local correto. 
+<br>
+"![linkreceita.png](..%2Fsrc%2Fimgs%2Ftestes%2Flinkreceita.png)
+<br> 2-Testes da responsividade.
+<br> 3-Testes do compartilhamento de redes sociais.
+</br>
+</br>
+
+
+
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
