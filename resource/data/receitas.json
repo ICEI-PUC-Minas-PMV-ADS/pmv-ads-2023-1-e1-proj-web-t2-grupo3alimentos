@@ -1,0 +1,94 @@
+{
+  "receitas": [
+    {
+      "titulo": "Torta Low Carb de Palmito e Alho-poró",
+      "ingredientes": [
+        "2 ovos ",
+        "40 gramas de quinoa em flocos ",
+        "120 gramas de farinha de castanha de caju ",
+        "40 gramas de farinha de coco ",
+        "70 ml de azeite ",
+        "Sal a gosto ",
+        "50 ml de água ",
+        "1 colher de café de fermento químico em pó (fermento para bolo) ",
+        "1 colher de sopa de azeite ",
+        "Alho-poró ",
+        "300 gramas de palmito ",
+        "300 gramas de tofu ",
+        "100 ml de água ",
+        "Sal a gosto ",
+        "Curry a gosto ",
+        "Pimenta a gosto"
+      ],
+      "preparo": [
+        "Em um liquidificador, coloque os ovos, a quinoa, as farinhas, o azeite, uma pitada de sal, a água e bata bem. ",
+        "Adicione o fermento e dê leves pulsadas. ",
+        "Transfira metade dessa massa para um refratário de vidro untado e leve ao forno preaquecido a 200 °C por 5 minutos. ",
+        "Em uma frigideira, coloque o azeite, o alho-poró e refogue até murchar. ",
+        "Acrescente o palmito e fatiado e deixe cozinhar por 4 minutos. ",
+        "No liquidificador, coloque o tofu picado, a água e bata bem. ",
+        "Despeje na frigideira e tempere com sal, curry e pimenta. ",
+        "Despeje sobre a massa pré assada, cubra com o restante da massa e volte ao forno por mais 15 minutos. ",
+        "Aproveite"
+      ],
+      "img": "../../resource/img/torta.png",
+      "url": "receita01.html"
+    },
+    {
+      "titulo": "Pão fácil sem glúten e lactose",
+      "ingredientes": [
+        "4 ovos",
+        "1/2 xícara de chá de leite de coco diluído em 1 xícara de chá de água",
+        "4 colheres de sopa de azeite de oliva",
+        "1 e 1/2 xícara de chá de farinha de arroz",
+        "1/2 xícara de chá de polvilho doce",
+        "1/2 xícara de chá de fubá",
+        "1 colher de sopa de açúcar demerara",
+        "1 colher de chá de sal marinho, ou mais, se preferir",
+        "1 colher de sopa de fermento biológico seco"
+      ],
+      "preparo": [
+        "Reúna todos os ingrediente, no liquidificador, bata todos os ingredientes, exceto o fermento. Depois, coloque o fermento e bata mais uma vez, apenas para misturar. Despeje a massa em uma forma para pães untada com azeite e farinha de arroz.",
+        "Reserve o pão e deixe crescer em local abafado, até dobrar de tamanho. Quando a massa estiver bem aerada, coloque para assar em forno médio, preaquecido a 180 ºC, por cerca de 30 minutos ou até que o pão esteja totalmente assado. Sirva e aproveite."
+
+      ],
+      "img": "../../resource/img/pao.jpeg",
+      "url": "receita_2.html"
+    },
+    {
+      "titulo": "Salada de Frutas com Suco de Laranja",
+      "ingredientes": [
+        "2 ovos ",
+        "40 gramas de quinoa em flocos ",
+        "120 gramas de farinha de castanha de caju ",
+        "40 gramas de farinha de coco ",
+        "70 ml de azeite ",
+        "Sal a gosto ",
+        "50 ml de água ",
+        "1 colher de café de fermento químico em pó (fermento para bolo) ",
+        "1 colher de sopa de azeite ",
+        "Alho-poró ",
+        "300 gramas de palmito ",
+        "300 gramas de tofu ",
+        "100 ml de água ",
+        "Sal a gosto ",
+        "Curry a gosto ",
+        "Pimenta a gosto"
+      ],
+      "preparo": [
+        "Em um liquidificador, coloque os ovos, a quinoa, as farinhas, o azeite, uma pitada de sal, a água e bata bem. ",
+        "Adicione o fermento e dê leves pulsadas. ",
+        "Transfira metade dessa massa para um refratário de vidro untado e leve ao forno preaquecido a 200 °C por 5 minutos. ",
+        "Em uma frigideira, coloque o azeite, o alho-poró e refogue até murchar. ",
+        "Acrescente o palmito e fatiado e deixe cozinhar por 4 minutos. ",
+        "No liquidificador, coloque o tofu picado, a água e bata bem. ",
+        "Despeje na frigideira e tempere com sal, curry e pimenta. ",
+        "Despeje sobre a massa pré assada, cubra com o restante da massa e volte ao forno por mais 15 minutos. ",
+        "Aproveite"
+      ],
+      "img": "../../resource/img/salada.jpeg",
+      "url": "receita_3.html"
+    }
+
+  ]
+}
