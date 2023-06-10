@@ -1,0 +1,178 @@
+body{
+    margin:5px;
+    height: 100%;
+}
+/*Cabecalho do Site */
+header {
+    height: 200px;
+    background-color: rgb(148, 195, 88);
+
+}
+
+.menu-principal {
+    float: right;
+    font-family: Arial;
+    font-size: larger;
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+.menu-principal>ul>li {
+    display: inline-block;
+    padding: 50px;
+    font-family: Arial;
+    font-size: 25px;
+}
+
+.menu-principal>ul>li:hover {
+    background-color: rgb(252, 198, 100);
+}
+.logo {
+    position: absolute;
+    top: 40px;
+    left: 60px;
+}
+
+h5 {
+    font-family: Blippo Black;
+    position: absolute;
+    top: -30px;
+    left: 49px;
+    font-size: 36px;
+    text-align: center;
+}
+
+.sabor {
+    color: rgb(252, 198, 100);
+    display: inline-block;
+    width: 35%;
+}
+
+@media only screen and (max-width: 700px) {
+
+    header {
+        height: auto;
+        padding: 15px;
+    }
+
+    .menu-principal {
+        float: none;
+        height: auto;
+        justify-content: center;
+    }
+
+    .menu-principal > ul > li {
+        display: block;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .logo {
+        position: static;
+        top: auto;
+        left: auto;
+    }
+
+    .menusabor > .sabor {
+        float: none;
+        height: auto;
+        justify-content: center;
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+    .menusabor {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .logo {
+        position: static;
+        margin-bottom: 10px;
+    }
+
+    h5 {
+        position: static;
+        margin-bottom: 10px;
+    }
+}
+
+/*Corpo do Site */
+
+main {
+    height: 100%;
+    font-family: arial;
+    font-size: large;
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    font-family: Arial;
+    font-size: 30px;
+    padding: 35px;
+
+}
+
+.p {
+    text-align: center;
+    font-size: medium;
+    font-family: Arial;
+    font-weight: normal;
+}
+
+.responsive {
+    display: inline-block;
+    width: calc(19% - 16px);
+    vertical-align: top;
+    margin: 8px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+@media only screen and (max-width: 700px) {
+    .responsive {
+        width: 32%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .responsive {
+        width: 50%;
+        margin: 6px;
+    }
+}
+
+/*Rodape do Site */
+
+footer {
+    clear: both;
+    height: 80px;
+    background-color: rgb(148, 195, 88);
+    width: 100%;
+    position: relative;
+    bottom: 0;
+}
+
+.rodape {
+    float: right;
+    font-family: arial;
+
+}
+
+.rodape>ul>li {
+    display: inline-block;
+    padding: 20px;
+}
+
+@media only screen and (max-width: 700px) {
+    .footer{
+        position:relative;
+        height: 40px;
+    }
+
+}
