@@ -9,7 +9,8 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 Testes da página de receitas e as páginas que se desdobram dela. 
 1- Testes dos links.
 2-Testes da responsividade.
-3- Testes do compartilhamento. 
+3- Testes do compartilhamento de redes sociais. 
+
 
 
 ## Ferramentas de Testes (Opcional)
