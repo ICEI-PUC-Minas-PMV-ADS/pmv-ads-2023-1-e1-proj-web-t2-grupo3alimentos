@@ -5,11 +5,15 @@
 Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
 Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- <br> 
+
+<br>
+<br>
 Testes da página de receitas e as páginas que se desdobram dela. 
 1- Testes dos links.
 2-Testes da responsividade.
-3- Testes do compartilhamento de redes sociais. 
+3- Testes do compartilhamento de redes sociais.
+</br>
+</br>
 
 
 
