@@ -14,7 +14,7 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 <br> 1-Testes dos links.
 <br> Todos os menus estão direcionando para o local correto. 
 <br>
-"![linkreceita.png](..%2Fsrc%2Fimgs%2Ftestes%2Flinkreceita.png)
+"(..%2Fsrc%2Fimgs%2Ftestes%2Flinkreceita.png)
 <br> 2-Testes da responsividade.
 <br> 3-Testes do compartilhamento de redes sociais.
 </br>
