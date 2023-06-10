@@ -12,11 +12,15 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 <br>
 <h2>Testes da página de receitas e as páginas que se desdobram dela. </h2>
 <br> 1-Testes dos links. Todos os menus estão direcionando para o local correto. 
-<br> "img": "../resource/img/linkreceita.png"
+
+![Links](../resource/img/linkreceita.png)
+
  2-Testes da responsividade.
 O site se adpta para outas plataformas.
+ ![Links](../resource/img/telefone.png)
 <br> 3-Testes do compartilhamento de redes sociais.
-O ícone está direcinando para as redes sociais corretamente. 
+O ícone está direcinando para as redes sociais corretamente.
+ ![Links](../resource/img/redesociais.png)
 </br>
 </br>
 
