@@ -87,7 +87,7 @@ Eu, como usuário, busco auxiliar pessoas com necessidades semelhantes as minhas
 **Objetivo:** testar a responsividade no smartphone e navegabilidade.
 **Saída esperada:** Mesmas funções da tela 1920x1080.
 **Saída real do sistema:** Todas as funções disponíveis e visíveis. 
-**Registro de execução:** passou na execução.
+**Registro de execução:** passou na execução.<br> 
 ![Links](../resource/img/TesteEnvie1.png)
 ![Links](../resource/img/TesteEnvie4.png)
 ![Links](../resource/img/TesteEnvie5.png)
