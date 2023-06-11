@@ -8,6 +8,27 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
 
+<br>
+<h2>Testes da página Home. </h2>
+<br> 1-Testes dos links. Todos os menus estão direcionando para o local correto. 
+
+![Links](../resource/img/home.png)
+
+2-Testes da responsividade.
+O site se adpta para outas plataformas, conforme imagem abaixo.
+![Links](../resource/img/homerespon.png)
+<br>
+2-Testes da barra de pesquisa.
+O site está direcionando os resultados das pesquisas para o Google, precisa ser 
+corrigido, Paulo ficará responsável por isso na próxima entrega.
+![Links](../resource/img/pesquisa.png)
+
+<br> 3-Testes da tela de login e contato.
+O ícone está direcionando para as páginas corretamente.
+![Links](../resource/img/homeloginecontato.png)
+
+</br>
+
 
 <br>
 <h2>Testes da página de receitas e as páginas que se desdobram dela. </h2>
