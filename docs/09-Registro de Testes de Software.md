@@ -89,15 +89,7 @@ Caso de testes 2:
 
 ![Links](..//resource/img/testeresponlogin.png)
 
-
-
-
-
-
-### História de usuário Tela Envie Sua Receita <br>
-
-Eu, como usuário, busco auxiliar pessoas com necessidades semelhantes as minhas postando receitas que já tenho hábito de realizar.
-<br>
+#### Teste Tela Envie sua Receita
 
 #### Caso de testes 1:
 **Objetivo:** testar a funcionalidade.<br>
