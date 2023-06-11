@@ -51,6 +51,7 @@ O ícone está direcionando para as redes sociais corretamente.
 <br> Objetivo: Testar os links.
 <br> Saída esperada: Direcionar o usuário para o local desejado.
 <br> Saída real do sistema: Todos os menus estão direcionando para o local correto.
+<br> Registro de execução: Êxito no teste.
 
 ![Links](../resource/img/linksobrenos.png)
 
@@ -59,6 +60,7 @@ Caso de testes 2:
 <br> Saída esperada: Responsividade da tela para diferentes tipos de aparelhos.
 <br> Saída real do sistema: A tela se adpta para outas plataformas, todas as funções disponíveis e visíveis, conforme imagem abaixo.
 <br> Registro de execução: Êxito no teste.
+
 
 ![Links](../resource/img/sobrenosresp.png)
 ![Links](../resource/img/sobrenosresp2.png)
