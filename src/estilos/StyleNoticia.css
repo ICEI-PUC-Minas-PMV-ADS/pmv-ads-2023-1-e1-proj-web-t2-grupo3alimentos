@@ -2,15 +2,48 @@
 header {
     height: 200px;
     background-color: rgb(148, 195, 88);
+
 }
+
 .menu-principal {
     float: right;
     font-family: Arial;
     font-size: larger;
     height: 200px;
-    display:flex;
+    display: flex;
     align-items: center;
 }
+.menu-principal>ul>li {
+    display: inline-block;
+    padding: 50px;
+    font-family: Arial;
+    font-size: 25px;
+}
+
+.menu-principal>ul>li:hover {
+    background-color: rgb(252, 198, 100);
+}
+.logo {
+    position: absolute;
+    top: 40px;
+    left: 60px;
+}
+
+h5 {
+    font-family: Blippo Black;
+    position: absolute;
+    top: -30px;
+    left: 49px;
+    font-size: 36px;
+    text-align: center;
+}
+
+.sabor {
+    color: rgb(252, 198, 100);
+    display: inline-block;
+    width: 35%;
+}
+
 
 /*Corpo do Site */
 
@@ -135,7 +168,12 @@ footer {
     background-color: rgb(148, 195, 88);
 }
 .rodape {
-    text-align: center;
+    float: right;
     font-family: arial;
-    color: black;
+
+}
+
+.rodape>ul>li {
+    display: inline-block;
+    padding: 20px;
 }
