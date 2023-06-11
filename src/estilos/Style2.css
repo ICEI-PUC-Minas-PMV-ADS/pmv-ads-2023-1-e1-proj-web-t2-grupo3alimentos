@@ -232,3 +232,116 @@ footer {
     display: inline-block;
     padding: 20px;
 }
+@media screen and (max-width: 768px) {
+    header {
+        height: auto;
+        padding: 15px;
+    }
+    .menusabor > .sabor {
+        float: none;
+        height: auto;
+        justify-content: center;
+    }
+
+    .menu-principal {
+        float: none;
+        height: auto;
+        justify-content: center;
+    }
+
+    .menu-principal > ul > li {
+        display: block;
+        padding: 10px;
+        text-align: center;
+    }
+    .menusabor > .sabor {
+        float: none;
+        height: auto;
+        justify-content: center;
+    }
+
+    .logo {
+        position: static;
+        top: auto;
+        left: auto;
+    }
+
+    main {
+        height: auto;
+        padding: 20px;
+    }
+
+    .selecionado {
+        text-align: center;
+        font-size: 30px;
+        padding: 30px;
+    }
+
+    .input-wrapper1,
+    .input-wrapper2,
+    .input-wrapper3,
+    .input-wrapper4,
+    .input-wrapper5 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 10px 0;
+    }
+    .input-wrapper2 {
+        margin: 10px 0;
+        width: 100%;
+    }
+
+
+    textarea.caixa-texto-ing,
+    textarea.caixa-texto-prep {
+        width: 100%;
+    }
+
+    input.caixa-texto-tempoprep,
+    input.caixa-texto-porcoes {
+        width: 100%;
+    }
+
+    .input-wrapper5 {
+        margin-top: 0;
+    }
+
+    #preview {
+        max-width: 100%;
+        max-height: 300px;
+    }
+
+
+    .button-wrapper button {
+        margin-top: auto;
+        width: 100%;
+
+    }
+
+    .button-wrapper {
+        position: relative;
+        margin-bottom: 30px;;
+        left: 0;
+        width: 100%;
+    }
+
+    .footer{
+        position:relative;
+        height: 40px;
+    }
+    @media only screen and (max-width: 500px) {
+        .menusabor {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .logo {
+            position: static;
+            margin-bottom: 10px;
+        }
+
+    }
+}
