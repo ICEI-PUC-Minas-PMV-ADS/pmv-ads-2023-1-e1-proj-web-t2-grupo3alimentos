@@ -6,31 +6,35 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sabor & Saúde - Envie sua Receita</title>
-    <link rel="stylesheet" href="../estilos/Style2.css">
-    <script src="dbfake.js"></script>
+    <link rel="stylesheet" href=../estilos/Style2.css>
+    <script src=../JavaScript/Script.js></script>
 </head>
 
 <body>
-    <header>
-        <h5>
-            <nav class="sabor"> Sabor </nav> & Saúde
-        </h5>
-        <nav class="menu-principal">
-            <ul>
-                <li><strong><a href="Index.html">Home</a></strong></li>
-                <li><strong><a href="receitas.html">Receitas</a></strong></li>
-                <li><strong><a href="Noticias.html">Notícias</a></strong></li>
-                <li><strong><a href="EnviesuaReceita.html"><u>Envie sua Receita</u></a></strong></li>
-                <li><strong><a href="SobreNos.html">Sobre Nós</a></strong></li>
-            </ul>
-        </nav>
-        <img class="logo" width="220" height="180" src="../imgs/logo.png" alt="logosaboresaude">
-    </header>
-    <main>
-        <h6>
-            <nav class="selecionado"> Envie sua Receita </nav>
-        </h6>
+<header>
+    <h5>
+        <nav class="sabor"> Sabor </nav> & Saúde
+    </h5>
+    <nav class="menu-principal">
+        <ul>
+            <li><strong><a href="Index.html">Home</a></strong></li>
+            <li><strong><a href="receita.html">Receitas</a></strong></li>
+            <li><strong><a href="Noticias.html">Notícias</a></strong></li>
+            <li><strong><a href="EnviesuaReceita.html"><u>Envie sua Receita</u></a></strong></li>
+            <li><strong><a href="SobreNos.html">Sobre Nós</a></strong></li>
+        </ul>
+    </nav>
+    <img class="logo" width="220" height="180" src="../imgs/logo.png" alt="logosaboresaude">
+</header>
 
+<div class="telaBloqueada" id="telaBloqueada"> </div>
+
+<main>
+    <h6>
+        <nav class="selecionado"> Envie sua Receita </nav>
+    </h6>
+
+    <form>
         <div class="input-wrapper">
             <p>Dê um nome a sua Receita:</p>
             <input type="text" id="nome-receita" class="caixa-texto-nome">
@@ -38,12 +42,12 @@
 
         <div class="input-wrapper1">
             <p>Ingredientes:</p>
-            <input type="text" id="ingredientes" class="caixa-texto-ing">
+            <textarea id="ingredientes" class="caixa-texto-ing"></textarea>
         </div>
 
         <div class="input-wrapper2">
             <p>Modo de Preparo:</p>
-            <input type="text" id="modo-preparo" class="caixa-texto-prep">
+            <textarea id="modo-preparo" class="caixa-texto-prep"></textarea>
         </div>
 
         <div class="input-wrapper3">
@@ -56,18 +60,51 @@
             <input type="text" id="porcoes" class="caixa-texto-porcoes">
         </div>
 
-        <div id="lista-Envie sua Receita"> </div>
+        <div class="input-wrapper5">
+            <p>Envie uma foto da sua Receita:</p>
+            <label for="foto-receita" class="custom-file-upload" id="customfileupload">
+                <input type="file" id="foto-receita" class="caixa-texto-foto" accept="image/*"
+                       onchange="previewImage(event)" multiple>
+                Escolher arquivo
+            </label>
+            <img id="preview" src="#" alt="Imagem selecionada">
+        </div>
 
-    </main>
-    <footer>
-        <nav class="rodape">
-            <ul>
-                <li><a href="../telas/Login.html">Login </a></li>
-                <li><a href="../telas/contato.html">Contato</a></li>
-            </ul>
-            Copyright 2023 (c) Sabor & Saúde
-        </nav>
-    </footer>
+        <script>
+            function previewImage(event) {
+                var input = event.target;
+                var preview = document.getElementById('preview');
+
+                var reader = new FileReader();
+                reader.onload = function () {
+                    preview.src = reader.result;
+                    preview.style.display = 'block';
+                    customfileupload.style.display = 'none';
+                };
+
+                reader.readAsDataURL(input.files[0]);
+            }
+        </script>
+
+        <div id="imagens-selecionadas"></div>
+
+        <div class="button-wrapper">
+            <button type="submit">Enviar Receita</button>
+        </div>
+    </form>
+
+    <div id="mensagem-sucesso"></div>
+
+</main>
+<footer>
+    <nav class="rodape">
+        <ul>
+            <li><a href="../telas/Login.html">Login </a></li>
+            <li><a href="../telas/contato.html">Contato</a></li>
+        </ul>
+        Copyright 2023 (c) Sabor & Saúde
+    </nav>
+</footer>
 </body>
 
 </html>

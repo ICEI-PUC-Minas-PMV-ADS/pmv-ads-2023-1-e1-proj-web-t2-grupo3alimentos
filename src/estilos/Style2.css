@@ -1,12 +1,22 @@
-body{
-    margin:5px;
+.telaBloqueada {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
     height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /*adiciona um fundo semi-transparente */
+    z-index: 1; /* coloca a parte travada em primeiro plano */
 }
+
+body.scroll-blocked {
+    overflow: hidden;
+}
+
 /*Cabecalho do Site */
 header {
     height: 200px;
     background-color: rgb(148, 195, 88);
-
 }
 
 .menu-principal {
@@ -17,6 +27,9 @@ header {
     display: flex;
     align-items: center;
 }
+
+/*Corpo do Site */
+
 .menu-principal>ul>li {
     display: inline-block;
     padding: 50px;
@@ -27,6 +40,7 @@ header {
 .menu-principal>ul>li:hover {
     background-color: rgb(252, 198, 100);
 }
+
 .logo {
     position: absolute;
     top: 40px;
@@ -39,96 +53,20 @@ h5 {
     top: -30px;
     left: 49px;
     font-size: 36px;
-    text-align: center;
 }
-
-.sabor {
-    color: rgb(252, 198, 100);
-    display: inline-block;
-    width: 35%;
-}
-
-/*Resposividade */
-
-@media only screen and (max-width: 700px) {
-
-    header {
-        height: auto;
-        padding: 15px;
-    }
-      
-    .menu-principal {
-        float: none;
-        height: auto;
-        justify-content: center;
-    }
-      
-    .menu-principal > ul > li {
-        display: block;
-        padding: 10px;
-        text-align: center;
-    }
-      
-    .logo {
-        position: static;
-        top: auto;
-        left: auto;
-    }
-
-    .menusabor > .sabor {
-        float: none;
-        height: auto;
-        justify-content: center;    
-    }
-    
-}
-
-@media only screen and (max-width: 500px) {
-    .menusabor {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-      }
-    
-      .logo {
-        position: static;
-        margin-bottom: 10px;
-      }
-    
-      h5 {
-        position: static;
-        margin-bottom: 10px;
-      }
-    }
-
-/*Corpo do Site */
 
 main {
-    height: 100%;
-    font-family: arial;
+    height: 800px;
+    font-family: Arial;
     font-size: large;
     color: black;
     text-align: center;
 }
-h2 {
-    font-family: Arial;
-    font-size: 30px;
-    padding: 35px;
 
-}
 .selecionado {
     text-align: center;
     font-size: 50px;
     padding: 35px;
-}
-
-
-.p {
-    text-align: center;
-    font-size: medium;
-    font-family: Arial;
-    font-weight: normal;
 }
 
 .input-wrapper {
@@ -153,13 +91,15 @@ input.caixa-texto-nome {
     flex-direction: column;
 }
 
-input.caixa-texto-ing {
+textarea.caixa-texto-ing {
     border: 1px solid #ccc;
     background-color: rgb(222, 236, 203);
     padding: 5px;
     font-size: 16px;
     width: 500px;
     height: 400px;
+    resize: none;
+    vertical-align: top;
 }
 
 .input-wrapper2 {
@@ -168,16 +108,18 @@ input.caixa-texto-ing {
     justify-content: center;
     flex-direction: column;
     float: right;
+    margin-right: 15px;
 }
 
-input.caixa-texto-prep {
+textarea.caixa-texto-prep {
     border: 1px solid #ccc;
     background-color: rgb(222, 236, 203);
     padding: 5px;
     font-size: 16px;
     width: 500px;
     height: 400px;
-    margin-right: 10px;
+    resize: none;
+    vertical-align: top;
 }
 
 .input-wrapper3 {
@@ -186,6 +128,7 @@ input.caixa-texto-prep {
     justify-content: center;
     flex-direction: column;
     float: left;
+    margin-left: 15px;
 }
 
 input.caixa-texto-tempoprep {
@@ -194,8 +137,7 @@ input.caixa-texto-tempoprep {
     padding: 5px;
     font-size: 16px;
     width: 300px;
-    height: 50px;
-    margin-left: 10px;
+    height: 40px;
 }
 
 .input-wrapper4 {
@@ -204,6 +146,7 @@ input.caixa-texto-tempoprep {
     justify-content: center;
     flex-direction: column;
     float: left;
+    margin-left: 54px;
 }
 
 input.caixa-texto-porcoes {
@@ -212,33 +155,63 @@ input.caixa-texto-porcoes {
     padding: 5px;
     font-size: 16px;
     width: 300px;
-    height: 50px;
-    margin-left: 10px;
+    height: 40px;
 }
 
-.receita-item>img {}
+.input-wrapper5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    float: left;
+    margin-top: -300px;
+    margin-left: 230px;
+}
 
-.responsive {
+#preview {
+    display: none;
+    max-width: 400px;
+    max-height: 400px;
+}
+
+.custom-file-upload {
+    display: flex;
+    float: left;
+    padding: 20px 60px;
+    cursor: pointer;
+    background-color: rgb(222, 236, 203);
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.caixa-texto-foto {
+    display: none;
+}
+
+.button-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.button-wrapper button {
+    width: 115px;
+    height: 35px;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#mensagem-sucesso {
+    z-index: 2;
+}
+
+.sabor {
+    color: rgb(252, 198, 100);
     display: inline-block;
-    width: calc(19% - 16px);
-    vertical-align: top;
-    margin: 8px;
-    padding: 10px;
-    box-sizing: border-box;
-}
 
-@media only screen and (max-width: 700px) {
-    .responsive {
-        width: 32%;
-        margin: 6px 0;
-      }
-    }
-
-@media only screen and (max-width: 500px) {
-    .responsive {
-      width: 50%;
-      margin: 6px;
-    }
 }
 
 /*Rodape do Site */
@@ -247,9 +220,6 @@ footer {
     clear: both;
     height: 80px;
     background-color: rgb(148, 195, 88);
-    width: 100%;
-    position: relative;
-    bottom: 0;
 }
 
 .rodape {
@@ -261,12 +231,4 @@ footer {
 .rodape>ul>li {
     display: inline-block;
     padding: 20px;
-}
-
-@media only screen and (max-width: 700px) {
-    .footer{
-        position:relative;
-        height: 40px;
-      }
-    
 }
