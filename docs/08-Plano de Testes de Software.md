@@ -10,7 +10,7 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 <h2>Testes da página Home. </h2>
 <br> 1-Testes dos links.
 <br> 2-Testes da responsividade.
-<br> 3-Testes dos direecionamentos de login e contato.
+<br> 3-Testes dos direcionamentos dos links de login e contato.
 <br> 3-Testes da barra de pesquisa.
 
 
@@ -24,7 +24,7 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 <h2>Testes da página Sobre Nós. </h2>
 <br> 1-Testes dos links.
 <br> 2-Testes da responsividade.
-<br> 3-Testes dos direecionamentos de login e contato.
+<br> 3-Testes dos direcionamentos de login e contato.
 
 
 
