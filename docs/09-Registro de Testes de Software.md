@@ -46,11 +46,57 @@ O ícone está direcionando para as redes sociais corretamente.
 </br>
 
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
 <h2>Testes da página Sobre Nós. </h2>
-<br> Caso de testes 1: 
+<br> Caso de testes 1:
 <br> Objetivo: Testar os links.
 <br> Saída esperada: Direcionar o usuário para o local desejado.
-<br> Saída real do sistema: Todos os menus estão direcionando para o local correto. 
+<br> Saída real do sistema: Todos os menus estão direcionando para o local correto.
 
 ![Links](../resource/img/linksobrenos.png)
 
@@ -88,6 +134,9 @@ Caso de testes 2:
 <br> Resgistro de execução: Êxito no teste. 
 
 ![Links](..//resource/img/testeresponlogin.png)
+
+
+
 
 
 
