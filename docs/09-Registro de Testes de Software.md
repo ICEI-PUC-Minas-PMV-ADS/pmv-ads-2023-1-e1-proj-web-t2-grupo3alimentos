@@ -82,7 +82,7 @@ Eu, como usuário, busco auxiliar pessoas com necessidades semelhantes as minhas
 **Registro de execução:** Passou na execução.<br>
 ![Links](../resource/img/TesteEnvie3.png)
 ![Links](../resource/img/TesteEnvie7.png)
-
+ 
 #### Caso de testes 3:
 **Objetivo:** testar a responsividade no smartphone e navegabilidade.
 **Saída esperada:** Mesmas funções da tela 1920x1080.
