@@ -46,52 +46,6 @@ O ícone está direcionando para as redes sociais corretamente.
 </br>
 
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
 <h2>Testes da página Sobre Nós. </h2>
 <br> Caso de testes 1:
 <br> Objetivo: Testar os links.
