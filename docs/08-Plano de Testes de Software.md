@@ -7,12 +7,26 @@ Apresente os cenários de testes utilizados na realização dos testes da sua ap
 Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
 
 <br>
+<h2>Testes da página Home. </h2>
+<br> 1-Testes dos links.
+<br> 2-Testes da responsividade.
+<br> 3-Testes dos direecionamentos de login e contato.
+<br> 3-Testes da barra de pesquisa.
+
+
+<br>
 <h2>Testes da página de receitas e as páginas que se desdobram dela. </h2>
 <br> 1-Testes dos links.
 <br> 2-Testes da responsividade.
 <br> 3-Testes do compartilhamento de redes sociais.
-</br>
-</br>
+
+<br>
+<h2>Testes da página Sobre Nós. </h2>
+<br> 1-Testes dos links.
+<br> 2-Testes da responsividade.
+<br> 3-Testes dos direecionamentos de login e contato.
+
+
 
 
 

@@ -15,7 +15,8 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 ![Links](../resource/img/home.png)
 
 2-Testes da responsividade.
-O site não se adpta para outas plataformas, conforme imagem abaixo.
+O site não se adpta para outas plataformas, conforme imagem abaixo. Precisa ser corrigido, Paulo ficará responsável
+por isso para a próxima entrega. 
 ![Links](../resource/img/homerespon.png)
 <br>
 
@@ -24,9 +25,10 @@ O site está direcionando os resultados das pesquisas para o Google, precisa ser
 corrigido, Paulo ficará responsável por isso na próxima entrega.
 ![Links](../resource/img/pesquisa.png)
 
-<br> 3-Testes da tela de login e contato.
+ 3-Testes da tela de login e contato.
 O ícone está direcionando para as páginas corretamente.
-![Links](../resource/img/homeloginecontato.png) </br>
+![Links](../resource/img/homeloginecontato.png)
+
 
 
 <br>
