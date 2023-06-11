@@ -61,6 +61,40 @@ O ícone está direcionando para as páginas corretamente.
 ![Links](../resource/img/contato.png)
 </br>
 
+### História de usuário Tela Envie Sua Receita <br>
+
+Eu, como usuário, busco auxiliar pessoas com necessidades semelhantes as minhas postando receitas que já tenho hábito de realizar.
+<br>
+
+#### Caso de testes 1:
+**Objetivo:** testar a funcionalidade.<br>
+**Saída esperada:** Após o preenchimento de todos os campos, aparecer a mensagem: Receita enviada com sucesso!<br>
+**Saída real do sistema:** Receita enviada com sucesso! Após análise, sua receita estará disponível na aba “RECEITAS”!<br>
+**Registro de execução:** Passou na execução.<br>
+![Links](../resource/img/TesteEnvie1.png)
+![Links](../resource/img/TesteEnvie2.png)
+![Links](../resource/img/TesteEnvie6.png)
+
+#### Caso de testes 2:
+**Objetivo:** testar a funcionalidade. <br>
+**Saída esperada:** Não permitir o prosseguimento diante da ausência de preenchimento.<br> 
+**Saída real do sistema:** Por favor, preencha todos os campos.<br>
+**Registro de execução:** Passou na execução.<br>
+![Links](../resource/img/TesteEnvie3.png)
+![Links](../resource/img/TesteEnvie7.png)
+
+#### Caso de testes 3:
+**Objetivo:** testar a responsividade no smartphone e navegabilidade.
+**Saída esperada:** Mesmas funções da tela 1920x1080.
+**Saída real do sistema:** Todas as funções disponíveis e visíveis. 
+**Registro de execução:** passou na execução.
+![Links](../resource/img/TesteEnvie1.png)
+![Links](../resource/img/TesteEnvie4.png)
+![Links](../resource/img/TesteEnvie5.png)
+
+
+
+
 
 
 > **Links Úteis**:
