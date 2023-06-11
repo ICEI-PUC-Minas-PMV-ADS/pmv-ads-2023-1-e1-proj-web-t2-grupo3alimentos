@@ -16,12 +16,27 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 ![Links](../resource/img/linkreceita.png)
 
  2-Testes da responsividade.
-O site se adpta para outas plataformas.
+O site se adpta para outas plataformas conforme exemplo de celular abaixo.
  ![Links](../resource/img/telefone.png)
 <br> 3-Testes do compartilhamento de redes sociais.
 O ícone está direcinando para as redes sociais corretamente.
  ![Links](../resource/img/redesociais.png)
 </br>
+
+<br>
+<h2>Testes da página Sobre Nós. </h2>
+<br> 1-Testes dos links. Todos os menus estão direcionando para o local correto. 
+
+![Links](../resource/img/linksobrenos.png)
+
+2-Testes da responsividade.
+O site se adpta para outas plataformas, conforme imagem abaixo.
+![Links](../resource/img/sobrenosresp.png)
+![Links](../resource/img/sobrenosresp2.png)
+<br> 3-Testes da tela de login e contato.
+O ícone está direcinando para as páginas corretamente.
+![Links](../resource/img/login01.png)
+![Links](../resource/img/contato.png)
 </br>
 
 
