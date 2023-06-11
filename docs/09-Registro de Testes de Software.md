@@ -10,7 +10,8 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 
 <br>
 <h2>Testes da página Home. </h2>
-<br> 1-Testes dos links. Todos os menus estão direcionando para o local correto. 
+<br> 1-Testes dos links. Todos os menus estão direcionando para o local correto.</br>
+
 ![Links](../resource/img/home.png)
 
 2-Testes da responsividade.
