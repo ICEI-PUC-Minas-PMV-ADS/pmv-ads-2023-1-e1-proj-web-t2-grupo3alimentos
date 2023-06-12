@@ -44,9 +44,7 @@ h5 {
     width: 35%;
 }
 
-
 /*Corpo do Site */
-
 
 .menu-principal > ul > li {
     display: inline-block;
@@ -68,12 +66,6 @@ h2 {
     padding: 35px;    
 }
 
-h1 {
-    font-family: Blippo Black;
-    position: absolute;
-    top: 15px;
-    left: 65px;
-}
 .logo{
     position: absolute;
     top: 45px;
@@ -110,42 +102,41 @@ main {
     padding:150px;
 }
 
-
 /* (INICIO) */
 
-		.container {
-			max-width: 800px;
-			margin: 0 auto;
-			display: flex;
-			flex-wrap: wrap;
-			justify-content: space-between;
-			align-items: center;            
-		}
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;            
+        }
 
-		.item {
-			width: 32%;
-			margin-bottom: 20px;
-		}
+        .item {
+            width: 32%;
+            margin-bottom: 20px;
+        }
 
-		.item img {
-			display: block;
-			max-width: 100%;
-			height: auto;
-		}
+        .item img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+        }
 
-		.item p {
-			margin-top: 10px;
-			font-size: 14px;
-			text-align: center;
-		}
+        .item p {
+            margin-top: 10px;
+            font-size: 14px;
+            text-align: center;
+        }
 
         h2 {
             font-size: 20px;
-			color: #ff9d00;
-			text-align: center;
+            color: #ff9d00;
+            text-align: center;
             padding: 05px;
-		}
-	
+        }
+    
 footer {
     position: fixed; 
     bottom: 0;
