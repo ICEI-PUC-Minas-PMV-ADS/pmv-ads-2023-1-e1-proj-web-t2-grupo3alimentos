@@ -163,20 +163,29 @@ footer {
     bottom: 0;
 }
 
+footer {
+    clear: both;
+    height: 80px;
+    background-color: rgb(148, 195, 88);
+    width: 100%;
+    position: relative;
+    bottom: 0;
+}
+
+.rodape {
+    float: right;
+    font-family: arial;
+
+}
+
 .rodape>ul>li {
     display: inline-block;
     padding: 20px;
 }
 
-.container {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  
-  .item {
-    width: 100%;
-    padding: 10px;
-    box-sizing: border-box;
-  }
+@media only screen and (max-width: 700px) {
+    .footer{
+        position:relative;
+        height: 40px;
   
  
