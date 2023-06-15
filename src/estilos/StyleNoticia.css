@@ -1,4 +1,15 @@
 /*Cabecalho do Site */
+body{
+    margin:5px;
+    height: 100%;
+}
+/*Cabecalho do Site */
+header {
+    height: 200px;
+    background-color: rgb(148, 195, 88);
+
+}
+
 header {
     height: 200px;
     background-color: rgb(148, 195, 88);
@@ -45,20 +56,6 @@ h5 {
 }
 
 /*Corpo do Site */
-
-.menu-principal > ul > li {
-    display: inline-block;
-    padding: 30px;
-    font-family: "Arial";
-}
-.menu-principal > ul > li:hover {
-    background-color: rgb(252, 198, 100);
-}
-
-.containerDivs {
-    display:flex;
-    clear: both
-}
 
 h2 {
     font-family: Arial;
