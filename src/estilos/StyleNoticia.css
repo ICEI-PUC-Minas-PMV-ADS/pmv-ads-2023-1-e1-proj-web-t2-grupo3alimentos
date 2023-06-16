@@ -1,15 +1,8 @@
-/*Cabecalho do Site */
 body{
     margin:5px;
     height: 100%;
 }
 /*Cabecalho do Site */
-header {
-    height: 200px;
-    background-color: rgb(148, 195, 88);
-
-}
-
 header {
     height: 200px;
     background-color: rgb(148, 195, 88);
@@ -53,6 +46,58 @@ h5 {
     color: rgb(252, 198, 100);
     display: inline-block;
     width: 35%;
+}
+
+@media only screen and (max-width: 700px) {
+
+    header {
+        height: auto;
+        padding: 15px;
+    }
+
+    .menu-principal {
+        float: none;
+        height: auto;
+        justify-content: center;
+    }
+
+    .menu-principal > ul > li {
+        display: block;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .logo {
+        position: static;
+        top: auto;
+        left: auto;
+    }
+
+    .menusabor > .sabor {
+        float: none;
+        height: auto;
+        justify-content: center;
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+    .menusabor {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .logo {
+        position: static;
+        margin-bottom: 10px;
+    }
+
+    h5 {
+        position: static;
+        margin-bottom: 10px;
+    }
 }
 
 /*Corpo do Site */
@@ -174,5 +219,8 @@ footer {
     .footer{
         position:relative;
         height: 40px;
+    }
+
+}
   
  
