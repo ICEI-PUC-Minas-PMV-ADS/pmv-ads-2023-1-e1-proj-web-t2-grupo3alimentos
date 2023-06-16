@@ -1,100 +1,118 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Home Page</title>
-<link rel="stylesheet" href="../estilos/Stylehp.css">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="../estilos/Stylehp.css">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
 
-<script>
+    <script>
 
- $(function() {
-    var people = [];
-$.getJSON('../../resource/data/receitas.json', function(data) {
-$.each(data.receitas, function(i, receita) {
-    var tblRow = "<tr>" +
-    "<td><h3>" + receita.titulo + " &nbsp </h3></td>" +
-    "<td><a href=" + receita.url + "><img src='"+ receita.img + "' className='float-center' width='70%' height='70%' ></a></td>"
-    "</tr>"
-    $(tblRow).appendTo("#userdata tbody");
-});
+        $(function() {
+            var people = [];
+            $.getJSON('../../resource/data/receitas.json', function(data) {
+                $.each(data.receitas, function(i, receita) {
+                    var tblRow = "<tr>" +
+                        "<td><h3>" + receita.titulo + " &nbsp </h3></td>" +
+                        "<td><a href=" + receita.url + "><img src='"+ receita.img + "' className='float-center' width='70%' height='70%' ></a></td>"
+                    "</tr>"
+                    $(tblRow).appendTo("#userdata tbody");
+                });
 
-});
+            });
 
-});
-</script>
+        });
+    </script>
 </head>
+
 <body>
 <header>
-<nav class="menu-principal">
-<ul>
-<li><strong><a href="Index.html">Home</a></strong></li>
-<li><strong><a href="receitas.html">Receitas</a></strong></li>
-<li><strong><a href="Noticias.html">Notícias</a></strong></li>
-<li><strong><a href="EnviesuaReceita.html"><u>Envie sua Receita</u></a></strong></li>
-<li><strong><a href="SobreNos.html">Sobre Nós</a></strong></li>
-</ul>
-</nav>
+    <nav class="menu-principal">
+        <ul>
+            <li><strong><a href="Index.html">Home</a></strong></li>
+            <li><strong><a href="receitas.html">Receitas</a></strong></li>
+            <li><strong><a href="Noticias.html">Notícias</a></strong></li>
+            <li><strong><a href="EnviesuaReceita.html"><u>Envie sua Receita</u></a></strong></li>
+            <li><strong><a href="SobreNos.html">Sobre Nós</a></strong></li>
+        </ul>
+    </nav>
 </header>
 
 <div class="container">
-<form action="../../resource/data/receitas.json" method="get" class="search-bar">
-<input type="text" placeholder="Pesquisar Receita..." name=""/>
-<button type="submit"><img src="../../docs/img/searchico.png" alt="Buscar"></button>
-</form>
+    <form action="../../resource/data/receitas.json" method="get" class="search-bar">
+        <input type="text" placeholder="Pesquisar Receita..." name="" />
+        <button type="submit"><img src="../../docs/img/searchico.png" alt="Buscar"></button>
+    </form>
 </div>
 <div class='containerDivshp'>
-<div class="imagemlogohp">
-<img src="../../docs/img/logo.png" height="400" width="400" alt="">
-</div>
+    <div class="imagemlogohp">
+        <img src="../../docs/img/logo.png" height="400" width="400" alt="">
+    </div>
 
-<div class="nomelogohp">
-<div class="h2hp"><h2> <span style="color: rgb(252, 198, 100);">Sabor</span> e Saúde</h2></div>
-<p>
- Comida Gostosa e Saudável <br>
-                            Receitas Práticas e Nutritívas
-</p>
-</div>
+    <div class="nomelogohp">
+        <div class="h2hp">
+            <h2> <span style="color: rgb(252, 198, 100);">Sabor</span> e Saúde</h2>
+        </div>
+        <p>
+            Comida Gostosa e Saudável <br>
+            Receitas Práticas e Nutritívas
+        </p>
+    </div>
 
 </div>
 <div class="noticiaReceita">
-<div class="conteudohp">
-<div class="h1hp"><a href="../telas/receita01.html"></a><h1>Torta Low Carb de Palmito e Alho-Poró</h1></div>
-<p> <img src="../../docs/img/torta.png" height="180" width="140" /> <strong>Torta Low Carb de Palmito e Alho-Poró</strong>, uma receita extremamente saborosa e nutritíva para aquele seu almoço ou jantar, que vai agradar você e seus convidados.
-</p>
-</div>
+    <div class="conteudohp">
+        <div class="h10">
+            <h1><a href="../telas/receita01.html">Torta Low Carb de Palmito e Alho-Poró</a></h1>
+        </div>
+        <p> <img src="../../docs/img/torta.png" height="180" width="140" /><strong>Torta Low Carb de Palmito e
+            Alho-Poró</strong>, uma receita extremamente saborosa e nutritíva para aquele seu almoço ou jantar, que vai agradar você e seus convidados.
+        </p>
+    </div>
 
-<div class="conteudohp">
-<div class="h1hp"><h1>Notícia 1</h1></div>
-<p> <img src="../../docs/img/MassaVegana.jpeg" height="180" width="140" />Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut alias tempore itaque dicta officiis deserunt animi voluptates nemo perferendis ipsam, dolorem ullam molestiae dolore  rem.
-</p>
-</div>
+    <div class="conteudohp">
+        <div class="h11">
+            <h1><a href="Noticias.html">Notícia 1</a></h1>
+        </div>
+        <p> <img src="../../src/imgs/not1.jpg" height="180" width="140" />Lorem ipsum dolor sit amet consectetur
+            adipisicing elit. Aut alias tempore itaque dicta officiis deserunt animi voluptates nemo perferendis ipsam,
+            dolorem ullam molestiae dolore rem.
+        </p>
+    </div>
 
-<div class="conteudohp">
-<div class="h1hp"><h1>Receita 2</h1></div>
-<p> <img src="../../docs/img/MassaVegana.jpeg" height="180" width="140" />Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut alias tempore itaque dicta officiis deserunt animi voluptates nemo perferendis ipsam, dolorem ullam molestiae dolore suscipit pariatur qui repellendus voluptas rem.
-</p>
-</div>
-<div class="conteudohp">
-<div class="h1hp"><h1>Notícia 2</h1></div>
-<p> <img src="../../docs/img/MassaVegana.jpeg" height="180" width="140" />Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut alias tempore itaque dicta officiis deserunt animi voluptates nemo perferendis ipsam, dolorem ullam molestiae dolore suscipit pariatur qui repellendus voluptas rem.
-</p>
+    <div class="conteudohp">
+        <div class="h12">
+            <h1><a href="../telas/receita_2.html">Pão fácil sem glúten e lactose</a></h1>
+        </div>
+        <p> <img src="../../resource/img/pao.jpeg" height="180" width="140" />Tem restrição a glúten ou lactose? Seus problemas acabaram. Venha conhecer esse delicioso <strong>Pão fácil de fazer sem glúten e lactonse</strong> que irá lhe saciar e deixar você mais saudável.
+        </p>
+    </div>
+    <div class="conteudohp">
+        <div class="h13">
+            <h1><a href="Noticias.html">Notícia 2</a></h1>
+        </div>
+        <p> <img src="../../src/imgs/not1.jpg" height="180" width="140" />Lorem ipsum dolor sit amet consectetur
+            adipisicing elit. Aut alias tempore itaque dicta officiis deserunt animi voluptates nemo perferendis ipsam,
+            dolorem ullam molestiae dolore suscipit pariatur qui repellendus
+        </p>
 
-</div>
+    </div>
 
 </div>
 <footer>
-<nav class="rodape">
-<ul>
-<li><a href="../telas/Login.html">Login </a></li>
-<li><a href="../telas/contato.html">Contato</a></li>
-</ul>
-  Copyright 2023 (c) Sabor & Saúde
-</nav>
+    <nav class="rodape">
+        <ul>
+            <li><a href="../telas/Login.html">Login </a></li>
+            <li><a href="../telas/contato.html">Contato</a></li>
+        </ul>
+        Copyright 2023 (c) Sabor & Saúde
+    </nav>
 </footer>
 
 
 </body>
+
 </html>

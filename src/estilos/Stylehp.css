@@ -120,7 +120,23 @@ header {
     padding-left: 100px;
 }
 
-.h1hp{
+.h10{
+    text-align: center;
+    font-size: 14px;
+
+}
+
+.h11{
+    text-align: center;
+    font-size: 14px;
+}
+
+.h12{
+    text-align: center;
+    font-size: 14px;
+}
+
+.h13{
     text-align: center;
     font-size: 14px;
 }
@@ -228,3 +244,60 @@ footer {
     }
 
 }
+
+
+@media only screen and (max-width: 700px) {
+
+    header {
+        height: auto;
+        padding: 15px;
+    }
+
+    .menu-principal {
+        float: none;
+        height: auto;
+        justify-content: center;
+    }
+
+    .menu-principal > ul > li {
+        display: block;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .logo {
+        position: static;
+        top: auto;
+        left: auto;
+    }
+
+    .menusabor > .sabor {
+        float: none;
+        height: auto;
+        justify-content: center;
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+    .menusabor {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .logo {
+        position: static;
+        margin-bottom: 10px;
+    }
+
+    h5 {
+        position: static;
+        margin-bottom: 10px;
+    }
+}
+
+
+
+
