@@ -144,57 +144,45 @@ main {
     padding:150px;
 }
 
-/* (INICIO) */
 
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-            align-items: center;            
-        }
-
-        .item {
-            width: 32%;
-            margin-bottom: 20px;
-        }
-
-        .item img {
-            display: block;
-            max-width: 100%;
-            height: auto;
-        }
-
-        .item p {
-            margin-top: 10px;
-            font-size: 14px;
-            text-align: center;
-        }
-
-        h2 {
-            font-size: 20px;
-            color: #ff9d00;
-            text-align: center;
-            padding: 05px;
-        }
     
-footer {
-    position: fixed; 
-    bottom: 0;
-    width: 100%;
-    background-color: #f2f2f2;
-    text-align: center;
-    padding: 10px 0;
-  }
-  
-  body {
-    padding-bottom: 60px; 
-  }
 /* (INICIO) */
-  
-/*Rodape do Site */
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    .center-align {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .item {
+        display: inline-block;
+        width: 25%; 
+        margin: 10px;
+    }
+    
+    .item img {
+        width: 100%;
+        height: auto;
+    }
+</style>
+</head>
+<body>
+
+<h2 class="center-align">
+    <span style="color: #FF9D00; font-size: 30px; padding: 30px">NOTÍCIAS E DICAS</span>
+</h2>
+
+
+/* (INICIO) */
+
+header {
+    height: 200px;
+    background-color: rgb(148, 195, 88);
+
+}
 footer {
     clear: both;
     height: 80px;
