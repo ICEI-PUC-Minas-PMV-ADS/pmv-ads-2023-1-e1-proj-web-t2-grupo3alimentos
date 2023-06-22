@@ -10,37 +10,35 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-
-Camila França
+<b> Camila França </b> 
 Desenvolvimento das páginas:
-Receita 01
-Receita 02
-Receita 03
-Receitas.json
+Receita 01 -
+Receita 02 -
+Receita 03 -
+Receitas.json -
 Responsável por testar: Home page
 
-Paulo Carvalho
-Desenvolvimento da Home page e contato
+<b>Paulo Carvalho </b>
+Desenvolvimento da Home page e contato -
 Responsável por testar: Notícias
 
-Carolina Novaes:
-Desenvolvimento das páginas
-Sobre nós
-Login
+<b>Carolina Novaes </b>
+Desenvolvimento das páginas -
+Sobre nós -
+Login -
 Responsável por testar:
 Envie sua receita
 
-Ruan
+<b>Ruan </b>
 Desenvolvimento da página:
-Envie sua receita
+Envie sua receita -
 Responsável por testar:
 Login
 Sobre nós
 
-Rosimeire Carvalho
+<b>Rosimeire Carvalho </b>
 Desenvolvimento da página:
-Notícias
+Notícias -
 Responsável por testar:
 Contato
 
