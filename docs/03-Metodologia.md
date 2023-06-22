@@ -12,6 +12,38 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 
 Apresente a divisão de papéis entre os membros do grupo.
 
+Camila França
+Desenvolvimento das páginas:
+Receita 01
+Receita 02
+Receita 03
+Receitas.json
+Responsável por testar: Home page
+
+Paulo Carvalho
+Desenvolvimento da Home page e contato
+Responsável por testar: Notícias
+
+Carolina Novaes:
+Desenvolvimento das páginas
+Sobre nós
+Login
+Responsável por testar:
+Envie sua receita
+
+Ruan
+Desenvolvimento da página:
+Envie sua receita
+Responsável por testar:
+Login
+Sobre nós
+
+Rosimeire Carvalho
+Desenvolvimento da página:
+Notícias
+Responsável por testar:
+Contato
+
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
 > Projeto](https://mindmaster.com.br/scrum-11-passos/)
