@@ -12,6 +12,7 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 
 <b> Camila França </b> 
 Desenvolvimento das páginas:
+Receitas - 
 Receita 01 -
 Receita 02 -
 Receita 03 -

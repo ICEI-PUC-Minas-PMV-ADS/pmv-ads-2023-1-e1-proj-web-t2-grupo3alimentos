@@ -4,7 +4,24 @@
 
 Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+Para cada requisito funcional, pode ser entregue um artefato desse tipo. 
+
+<h2>Funcionalidades da página Home. </h2>
+
+<h2>Funcionalidades da página de receitas e as páginas que se desdobram dela. </h2>
+<br> As funcionalidade abaixo serão aplicadas nas páginas das receitas. 
+<br> RF-01	Receitas: O site pode oferecer uma variedade de receitas para diversos públicos, com restrições alimentares ou não.
+<br> RF-04	Compartilhamento nas redes sociais: a possibilidade de compartilhar as receitas nas redes sociais pode ajudar a aumentar a visibilidade do site e permitir que os usuários compartilhem receitas interessantes com seus amigos e familiares.
+<br> RNF-01	Responsivo: O site pode ser visualizado facilmente em diferentes dispositivos, como desktops, laptops e smartphones, sem precisar de zoom ou rolagem horizontal.
+<br> RNF-03	Linguagem simples: a linguagem utilizada no site deve ser simples e acessível para que todos os usuários possam entender as informações presentes.
+<br> RNF-02	Navegabilidade: a interface do site deve ser simples e fácil de navegar, para que os usuários possam encontrar rapidamente as receitas ou notícias que estão procurando.
+<br> 
+
+<h2>Funcionalidades da página Notícias. </h2>
+
+<h2>Funcionalidades da página Sobre Nós. </h2>
+
+<h2>Funcionalidades da página Envie a sua Receita. </h2>
 
 > **Links Úteis**:
 >
