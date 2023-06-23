@@ -7,10 +7,10 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 Para cada requisito funcional, pode ser entregue um artefato desse tipo. 
 
 <h2>Funcionalidades da página Home. </h2>
-<br>Requisitos atendidos:
-<br>Artefatos da funcionalidade:
-<br>Estrutura de Dados:
-<br>Instruções de acesso:
+<br><h3>Requisitos atendidos:</h3>
+<br><h3>Artefatos da funcionalidade:</h3>
+<br><h3>Estrutura de Dados:</h3>
+<br><h3>Instruções de acesso:</h3>
 
 <h2>Funcionalidades da página de receitas e as páginas que se desdobram dela. </h2>
 As funcionalidade abaixo serão aplicadas nas páginas das receitas. Requisitos atingidos: 
@@ -22,39 +22,35 @@ As funcionalidade abaixo serão aplicadas nas páginas das receitas. Requisitos 
 <br><h3>Instruções de acesso:</h3>
 <br>1.	Abra um navegador de Internet e informe a seguinte URL: 
 <br>2.	A tela de notícias é a primeira funcionalidade exibida pelo aplicativo.
+<br><h3>Artefatos da funcionalidade:</h3>
+receitas.html
+<br>receita_3.html
+<br>receita_2.html
+<br>receita01.html
+<br>receitas.json
+<br>receitas.css
+
+<br><h3>Estrutura de Dados:
+
 
 
 <h2>Funcionalidades da página Notícias. </h2>
-<br>Requisitos atendidos:
-<br>Artefatos da funcionalidade:
-<br>Estrutura de Dados:
-<br>Instruções de acesso:
+<br><h3>Requisitos atendidos:</h3>
+<br><h3>Artefatos da funcionalidade:</h3>
+<br><h3>Estrutura de Dados:</h3>
+<br><h3>Instruções de acesso:</h3>
 
 <h2>Funcionalidades da página Sobre Nós. </h2>
-A tela apresenta parágrafo, classes, imagens e legendas armezenadas dentro de li < ul.
-
-Requisitos atendidos:
-- RNF-01
-- RNF-02
-- RNF-03
-- RNF-04
-
-Artefatos da funcionalidade:
-- SobreNos.html
-- logo.png
-- StyleSobreNos.css
-- fotocamila.jpg
-- fotocarol.jpg
-- fotopaulo.jpg
-- fotoruan.jpg
-- rosimeire.jpg
-
-Estrutura de Dados:
-
-Instruções de acesso:
-
+<br><h3>Requisitos atendidos:</h3>
+<br><h3>Artefatos da funcionalidade:</h3>
+<br><h3>Estrutura de Dados:</h3>
+<br><h3>Instruções de acesso:</h3>
 
 <h2>Funcionalidades da página Envie a sua Receita. </h2>
+<br><h3>Requisitos atendidos:</h3>
+<br><h3>Artefatos da funcionalidade:</h3>
+<br><h3>Estrutura de Dados:</h3>
+<br><h3>Instruções de acesso:</h3>
 
 > **Links Úteis**:
 >
