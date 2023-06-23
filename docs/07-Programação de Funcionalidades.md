@@ -23,7 +23,7 @@ As funcionalidade abaixo serão aplicadas nas páginas das receitas. Requisitos 
 <br>1.	Abra um navegador de Internet e informe a seguinte URL: 
 <br>2.	A tela de notícias é a primeira funcionalidade exibida pelo aplicativo.
 <br><h3>Artefatos da funcionalidade:</h3>
-<br>receitas.html
+receitas.html
 <br>receita_3.html
 <br>receita_2.html
 <br>receita01.html
