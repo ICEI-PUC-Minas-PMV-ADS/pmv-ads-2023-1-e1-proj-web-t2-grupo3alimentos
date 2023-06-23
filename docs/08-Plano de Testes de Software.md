@@ -14,14 +14,14 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 <br> Registro de execução: Êxito no teste.
 
 <br> Caso de Teste 2:
-<br> Obejetivo 02: Testes da responsividade.
+<br> Objetivo 02: Testes da responsividade.
 <br> Um site responsivo em dispositivos móveis é projetado para se ajustar automaticamente a fim de caber em diferentes dispositivos móveis, tablets e desktops.
 <br> Saída real do sistema: O site se adapta para às diferentes plataformas.
 <br> Registro de execução: Êxito no teste.
 
 
 <br> Caso de Teste 3:
-<br> Obejetivo 03: Testes da barra de pesquisa
+<br> Objetivo 03: Testes da barra de pesquisa
 <br> A barra de pesquisa está funcional, retornando a pesquisa realizada de acordo com o conteúdo de receitas e noticias existente no programa. Ao clicar no retorno da pesquisa existente, encaminha para o link correto respectivo da receita ou para a página interna de notícias.
 <br> Registro de execução: Êxito no teste.
 
@@ -30,6 +30,11 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 <br> A barra de pesquisa está funcional para o retorno de nenhuma receita ou notícia relacionada a busca realizada, caso não existente, retornando a mensagem "Nenhum resultado encontrado."
 <br> Registro de falha da execução: Êxito no teste.
 
+
+<br> Caso de Teste 5:
+<br> Obejetivo 05: Testes de sucesso dos links no conteudo da Home Page.
+<br> A página Home Page contém quatro links, referente a duas receitas existente e duas nótícias, a qual estão funcionais.
+<br> Registro da execução: Êxito no teste.
 
 <br>
 <h2>Testes da página de receitas e as páginas que se desdobram dela. </h2>
