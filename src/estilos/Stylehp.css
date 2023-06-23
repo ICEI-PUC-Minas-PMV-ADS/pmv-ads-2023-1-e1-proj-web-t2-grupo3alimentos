@@ -80,6 +80,13 @@ header {
     cursor: pointer;
 }
 
+#resultado {
+    display: block;
+    position:absolute;
+    padding-top: 15%;
+   
+}
+
 /* Conteudo do Site */
 
 
@@ -99,6 +106,7 @@ header {
     margin-left: 100px;
     border: 1px solid #777;
     text-align: justify;
+    text-decoration: none;  
 
 }
 
@@ -118,6 +126,13 @@ header {
     height: 300px;
     width: 400px;
     padding-left: 100px;
+    padding-top: 7%;
+}
+
+
+h1 a {
+    text-decoration:none;
+   
 }
 
 .h10{

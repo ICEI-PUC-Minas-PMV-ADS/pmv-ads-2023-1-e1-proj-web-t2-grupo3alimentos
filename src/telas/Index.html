@@ -41,12 +41,16 @@
     </nav>
 </header>
 
+<!-- Barra de Pesquisa -->
 <div class="container">
-    <form action="../../resource/data/receitas.json" method="get" class="search-bar">
-        <input type="text" placeholder="Pesquisar Receita..." name="" />
+    <form action="#" method="get" class="search-bar" onsubmit="processarFormulario(event)">
+        <input type="text" placeholder="Pesquisar Receita ou notícias..." name="query" />
         <button type="submit"><img src="../../docs/img/searchico.png" alt="Buscar"></button>
     </form>
+
+    <div id="resultado"></div>
 </div>
+
 <div class='containerDivshp'>
     <div class="imagemlogohp">
         <img src="../../docs/img/logo.png" height="400" width="400" alt="">
@@ -75,11 +79,10 @@
 
     <div class="conteudohp">
         <div class="h11">
-            <h1><a href="Noticias.html">Notícia 1</a></h1>
+            <h1><a href="Noticias.html">Calculadora de Churrasco</a></h1>
         </div>
-        <p> <img src="../../src/imgs/not1.jpg" height="180" width="140" />Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Aut alias tempore itaque dicta officiis deserunt animi voluptates nemo perferendis ipsam,
-            dolorem ullam molestiae dolore rem.
+        <p> <img src="../../src/imgs/not1.jpg" height="180" width="140" />Vai fazer um churrasco e ficou na dúvida na quantidade de cada produto? Com a <strong> Calculadora do Churrasqueiro </strong> você consegue programar seu churrasco de acordo com a quantidade de convidados entre adultos e crianças.
+            
         </p>
     </div>
 
@@ -92,11 +95,9 @@
     </div>
     <div class="conteudohp">
         <div class="h13">
-            <h1><a href="Noticias.html">Notícia 2</a></h1>
+            <h1><a href="Noticias.html">Guardando eletrodoméstico de forma organizada</a></h1>
         </div>
-        <p> <img src="../../src/imgs/not1.jpg" height="180" width="140" />Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Aut alias tempore itaque dicta officiis deserunt animi voluptates nemo perferendis ipsam,
-            dolorem ullam molestiae dolore suscipit pariatur qui repellendus
+        <p> <img src="../../src/imgs/img3.jpg" height="120" width="130" />Chega de cozinha bagunçada! <strong> Como organizar os eletrodomésticos de um jeito simples e prático!</strong> Essas dicas práticas de como organizá-los, de um jeito funcional, irá deixar sua cozinha e sua vida muito mais facil.
         </p>
 
     </div>
@@ -111,7 +112,58 @@
     </nav>
 </footer>
 
+<!--Script Barra de Pesquisa-->
+<script>
+    
+    var receitas = [
+        { nome: "Torta Low Carb de Palmito e Alho-Poró", link: "receita01.html" },
+        { nome: "Pão fácil sem glúten e lactose", link: "receita_2.html" },
+        { nome: "Salada de Frutas com Suco de Laranja  ", link: "receita_3.html" },
+        { nome: "Calculadora de Churrasco", link: "Noticias.html" },
+        { nome: "Guardando eletrodoméstico de forma organizada", link: "Noticias.html" },
+        { nome: "Sexta Feira Santa - Receitas com Peixe", link: "Noticias.html" }
 
+    ]; // Inserir Título da Receita e link da página
+
+    function processarFormulario(event) {
+        event.preventDefault(); // Evita que a página seja recarregada
+
+        var query = document.querySelector('.search-bar input[name="query"]').value;
+
+        // Fazer a busca nos dados e filtrar os resultados
+        var resultados = buscarReceitas(query);
+        exibirResultados(resultados);
+    }
+
+    function buscarReceitas(query) {
+        // Filtrar as receitas com base na palavra pesquisada
+        var resultados = receitas.filter(function(receita) {
+            return receita.nome.toLowerCase().includes(query.toLowerCase());
+        });
+
+        return resultados;
+    }
+
+    function exibirResultados(resultados) {
+        var resultadoDiv = document.getElementById("resultado");
+
+        // Limpar o conteúdo anterior
+        resultadoDiv.innerHTML = "";
+
+        if (resultados.length === 0) {
+            resultadoDiv.textContent = "Nenhum resultado encontrado.";
+        } else {
+            resultados.forEach(function(receita) {
+                var p = document.createElement("p");
+                var link = document.createElement("a");
+                link.href = receita.link;
+                link.textContent = receita.nome;
+                p.appendChild(link);
+                resultadoDiv.appendChild(p);
+            });
+        }
+    }
+</script>
 </body>
 
 </html>
