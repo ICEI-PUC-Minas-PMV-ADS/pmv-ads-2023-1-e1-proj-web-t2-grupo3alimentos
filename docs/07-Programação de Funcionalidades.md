@@ -31,7 +31,17 @@ receitas.html
 <br>receitas.css
 
 <br><h3>Estrutura de Dados:
-
+<br>
+<br>{
+<br>"receitas": [
+<br>{
+<br>"id": 1,
+<br>"titulo": "Torta Low Carb de Palmito e Alho-poró",
+<br>"Ingredientes": "2 ovos - 40 gramas de quinoa em flocos - 120 gramas de farinha de castanha de caju
+<br>"Modo de preparo": "Em um liquidificador, coloque os ovos, a quinoa, as farinhas, o azeite, uma pitada de sal, a água e bata bem. ..."
+}
+]
+}
 
 
 <h2>Funcionalidades da página Notícias. </h2>
