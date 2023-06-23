@@ -26,7 +26,7 @@ As funcionalidade abaixo serão aplicadas nas páginas das receitas. Requisitos 
 <br><h3>Estrutura de Dados:
 
 
-<h2><h3>Funcionalidades da página Notícias. </h2>
+<h2>Funcionalidades da página Notícias. </h2>
 <br><h3>Requisitos atendidos:</h3>
 <br><h3>Artefatos da funcionalidade:</h3>
 <br><h3>Estrutura de Dados:</h3>
