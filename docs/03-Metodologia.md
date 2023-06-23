@@ -11,31 +11,37 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 ### Divisão de Papéis
 
 <b> Camila França </b> 
-<br>Desenvolvimento das páginas:<br>
-Receita 01 - Receita 02 - Receita 03 - Receitas.json 
-<br>Responsável por testar: Home page
+Desenvolvimento das páginas:
+Receitas - 
+Receita 01 -
+Receita 02 -
+Receita 03 -
+Receitas.json -
+Responsável por testar: Home page
 
 <b>Paulo Carvalho </b>
-<br>Desenvolvimento da página:<br>
-Home page e contato <br>
+Desenvolvimento da Home page e contato -
 Responsável por testar: Notícias
 
 <b>Carolina Novaes </b>
-<br>Desenvolvimento das páginas:<br>
-Sobre nós - Login <br>
+Desenvolvimento das páginas -
+Sobre nós -
+Login -
 Responsável por testar:
 Envie sua receita
 
-<b>Ruan Gonzaga</b>
-<br>Desenvolvimento da página:<br>
-Envie sua receita <br>
+<b>Ruan </b>
+Desenvolvimento da página:
+Envie sua receita -
 Responsável por testar:
-Login - Sobre nós
+Login
+Sobre nós
 
 <b>Rosimeire Carvalho </b>
-<br>Desenvolvimento da página:<br>
-Notícias <br>
-Responsável por testar: Home page - Contato
+Desenvolvimento da página:
+Notícias -
+Responsável por testar:
+Contato
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
