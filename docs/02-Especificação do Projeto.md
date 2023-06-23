@@ -61,9 +61,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF-01 | Receitas: O site pode oferecer uma variedade de receitas para diversos públicos, com restrições alimentares ou não.                                                                                                                          | ALTA       | 
 | RF-02 | Envio de receitas: O site pode oferecer aos usuários a oportunidade de contribuir com o conteúdo, permitindo o envio de receitas completas para serem incorporadas ao conteúdo do site.                                                      | ALTA       |
 | RF-03 | Busca: O site permite ao usuário realizar buscas por palavras chave em todo o site, facilitando o acesso as receitas.                                                                                                                        | ALTA       |
-| RF-05 | Compartilhamento nas redes sociais: a possibilidade de compartilhar as receitas nas redes sociais pode ajudar a aumentar a visibilidade do site e permitir que os usuários compartilhem receitas interessantes com seus amigos e familiares. | MÉDIA      |
-| RF-06 | O site poderá permitir que os usuários avaliem e comentem sobre a receita que já realizaram.                                                                                                                                                 | MÉDIA      |
-| RF-07 | O site permitirá que o usuário acesse notícias externas com conteúdo relevante sobre o mundo saudável.                                                                                                                                       | MÉDIA      |
+| RF-04 | Compartilhamento nas redes sociais: a possibilidade de compartilhar as receitas nas redes sociais pode ajudar a aumentar a visibilidade do site e permitir que os usuários compartilhem receitas interessantes com seus amigos e familiares. | MÉDIA      |
+| RF-05 | O site poderá permitir que os usuários avaliem e comentem sobre a receita que já realizaram.                                                                                                                                                 | MÉDIA      |
+| RF-06 | O site permitirá que o usuário acesse notícias externas com conteúdo relevante sobre o mundo saudável.                                                                                                                                       | MÉDIA      |
 
 ### Requisitos não Funcionais
 
