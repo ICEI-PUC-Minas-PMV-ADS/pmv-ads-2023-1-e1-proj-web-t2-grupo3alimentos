@@ -5,8 +5,6 @@
 
 Para a criação de um site, alguns pontos precisam ser considerados, em primeiro lugar ele deve ser eficaz, fácil de usar, intuitivo e atraente visualmente. O site foi projetado com uma estrutura de navegação clara e organizada, tornando fácil para os usuários encontrarem o que estão procurando. Outro aspecto fundamental é o conteúdo, relevante e bem escrito. Nele podemos ver imagens de alta qualidade, o que gera interação e o interesse por parte dos usuários.
 
-<br>**Telas do usário**:
-![Exemplo de Wireframe](img/wireframe-example.png)
 
 ## Wireframes
 Os Wireframes são esboços do projeto de um site, que represetam de uma forma visual e básica a estrutura do site, nas páginas a seguir, veja o detalhamento de cada uma dessas páginas.
@@ -26,7 +24,7 @@ As páginas do site, estão divididas da seguinte forma: “Home page”, “Rec
 <br>
 **Página de receitas**:
 <br>
-Como pode ser visto abaixo, na parte superior da página, o campo de pesquisa está bem localizado o que estimula a interação com site:
+Como pode ser visto  abaixo, na parte superior da página, o campo de pesquisa está bem localizado o que estimula a interação com site:
 ![Exemplo de Wireframe](img/wireframe-example02.png)
 **Página da receita selecionada**:
 <br>
