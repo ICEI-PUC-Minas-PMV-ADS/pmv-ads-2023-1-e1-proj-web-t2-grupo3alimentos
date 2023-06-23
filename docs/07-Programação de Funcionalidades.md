@@ -39,6 +39,10 @@ As funcionalidade abaixo serão aplicadas nas páginas das receitas. Requisitos 
 <br><h3>Instruções de acesso:</h3>
 
 <h2>Funcionalidades da página Envie a sua Receita. </h2>
+<br><h3>Requisitos atendidos:</h3>
+<br><h3>Artefatos da funcionalidade:</h3>
+<br><h3>Estrutura de Dados:</h3>
+<br><h3>Instruções de acesso:</h3>
 
 > **Links Úteis**:
 >
