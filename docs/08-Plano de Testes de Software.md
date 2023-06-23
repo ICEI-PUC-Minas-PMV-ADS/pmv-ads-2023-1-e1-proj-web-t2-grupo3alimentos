@@ -9,8 +9,8 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 <br>
 <h2>Testes da página Home. </h2>
 <br> Caso de Teste 1:
-Objetivo 01: Testes dos links.
-Saída real do sistema: Todos os menus estão direcionando para as suas respectivas páginas e retornando-o para a Home Page, tal como à página Contato.
+<br>Objetivo 01: Testes dos links.
+<br>Saída real do sistema: Todos os menus estão direcionando para as suas respectivas páginas e retornando-o para a Home Page, tal como à página Contato.
 <br> Registro de execução: Êxito no teste.
 
 <br> Caso de Teste 2:
