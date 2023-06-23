@@ -8,10 +8,27 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 
 <br>
 <h2>Testes da página Home. </h2>
-<br> 1-Testes dos links.
-<br> 2-Testes da responsividade. Um site responsivo em dispositivos móveis é projetado para se ajustar automaticamente a fim de caber em diferentes dispositivos móveis, tablets e desktops.
-<br> 3-Testes dos direcionamentos dos links de login e contato.
-<br> 3-Testes da barra de pesquisa.
+<br> Caso de Teste 1:
+Objetivo 01: Testes dos links.
+Saída real do sistema: Todos os menus estão direcionando para as suas respectivas páginas e retornando-o para a Home Page, tal como à página Contato.
+<br> Registro de execução: Êxito no teste.
+
+<br> Caso de Teste 2:
+<br> Obejetivo 02: Testes da responsividade.
+<br> Um site responsivo em dispositivos móveis é projetado para se ajustar automaticamente a fim de caber em diferentes dispositivos móveis, tablets e desktops.
+<br> Saída real do sistema: O site se adapta para às diferentes plataformas.
+<br> Registro de execução: Êxito no teste.
+
+
+<br> Caso de Teste 3:
+<br> Obejetivo 03: Testes da barra de pesquisa
+<br> A barra de pesquisa está funcional, retornando a pesquisa realizada de acordo com o conteúdo de receitas e noticias existente no programa. Ao clicar no retorno da pesquisa existente, encaminha para o link correto respectivo da receita ou para a página interna de notícias.
+<br> Registro de execução: Êxito no teste.
+
+<br> Caso de Teste 4:
+<br> Obejetivo 04: Testes de falha da barra de pesquisa
+<br> A barra de pesquisa está funcional para o retorno de nenhuma receita ou notícia relacionada a busca realizada, caso não existente, retornando a mensagem "Nenhum resultado encontrado."
+<br> Registro de falha da execução: Êxito no teste.
 
 
 <br>
