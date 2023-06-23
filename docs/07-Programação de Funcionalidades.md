@@ -31,7 +31,7 @@ receitas.html
 <br>receitas.css
 
 <br><h3>Estrutura de Dados:</h3>
-<br>{
+{
 <br>"receitas": [
 <br>{
 <br>"id": 1,
