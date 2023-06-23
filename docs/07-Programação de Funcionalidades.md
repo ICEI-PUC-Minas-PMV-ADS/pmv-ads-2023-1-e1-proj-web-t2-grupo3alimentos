@@ -30,7 +30,7 @@ receitas.html
 <br>receitas.json
 <br>receitas.css
 
-<br><h3>Estrutura de Dados:
+<br><h3>Estrutura de Dados:</h3>
 <br>
 <br>{
 <br>"receitas": [
