@@ -31,10 +31,28 @@ As funcionalidade abaixo serão aplicadas nas páginas das receitas. Requisitos 
 <br>Instruções de acesso:
 
 <h2>Funcionalidades da página Sobre Nós. </h2>
+A tela apresenta parágrafo, classes, imagens e legendas armezenadas dentro de li < ul.
+
 Requisitos atendidos:
+- RNF-01
+- RNF-02
+- RNF-03
+- RNF-04
+
 Artefatos da funcionalidade:
+- SobreNos.html
+- logo.png
+- StyleSobreNos.css
+- fotocamila.jpg
+- fotocarol.jpg
+- fotopaulo.jpg
+- fotoruan.jpg
+- rosimeire.jpg
+
 Estrutura de Dados:
+
 Instruções de acesso:
+
 
 <h2>Funcionalidades da página Envie a sua Receita. </h2>
 
