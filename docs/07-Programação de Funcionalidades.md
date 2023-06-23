@@ -7,19 +7,34 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 Para cada requisito funcional, pode ser entregue um artefato desse tipo. 
 
 <h2>Funcionalidades da página Home. </h2>
+<br>Requisitos atendidos:
+<br>Artefatos da funcionalidade:
+<br>Estrutura de Dados:
+<br>Instruções de acesso:
 
 <h2>Funcionalidades da página de receitas e as páginas que se desdobram dela. </h2>
-As funcionalidade abaixo serão aplicadas nas páginas das receitas. 
+As funcionalidade abaixo serão aplicadas nas páginas das receitas. Requisitos atingidos: 
 <br> <b> RF-01</b>	Receitas: O site pode oferecer uma variedade de receitas para diversos públicos, com restrições alimentares ou não.
 <br> <b>RF-04</b>	Compartilhamento nas redes sociais: a possibilidade de compartilhar as receitas nas redes sociais pode ajudar a aumentar a visibilidade do site e permitir que os usuários compartilhem receitas interessantes com seus amigos e familiares.
 <br> <b>RNF-01</b>	Responsivo: O site pode ser visualizado facilmente em diferentes dispositivos, como desktops, laptops e smartphones, sem precisar de zoom ou rolagem horizontal.
 <br> <b>RNF-03</b>	Linguagem simples: a linguagem utilizada no site deve ser simples e acessível para que todos os usuários possam entender as informações presentes.
 <br> <b>RNF-02</b>	Navegabilidade: a interface do site deve ser simples e fácil de navegar, para que os usuários possam encontrar rapidamente as receitas ou notícias que estão procurando.
-<br> 
+<br><h3>Instruções de acesso:</h3>
+<br>1.	Abra um navegador de Internet e informe a seguinte URL: 
+<br>2.	A tela de notícias é a primeira funcionalidade exibida pelo aplicativo.
+
 
 <h2>Funcionalidades da página Notícias. </h2>
+<br>Requisitos atendidos:
+<br>Artefatos da funcionalidade:
+<br>Estrutura de Dados:
+<br>Instruções de acesso:
 
 <h2>Funcionalidades da página Sobre Nós. </h2>
+Requisitos atendidos:
+Artefatos da funcionalidade:
+Estrutura de Dados:
+Instruções de acesso:
 
 <h2>Funcionalidades da página Envie a sua Receita. </h2>
 
