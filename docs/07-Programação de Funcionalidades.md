@@ -31,21 +31,7 @@ As funcionalidade abaixo serão aplicadas nas páginas das receitas. Requisitos 
 <br>receitas.css
 
 <br><h3>Estrutura de Dados:
-<br>
-        $(function() {
-            var people = [];
-            $.getJSON('../../resource/data/receitas.json', function(data) {
-                $.each(data.receitas, function(i, receita) {
-                    var tblRow = "<tr>" +
-                        "<td><h3>" + receita.titulo + " &nbsp </h3></td>" +
-                        "<td><a href=" + receita.url + "><img src='"+ receita.img + "' className='float-center' width='70%' height='70%' ></a></td>"
-                    "</tr>"
-                    $(tblRow).appendTo("#userdata tbody");
-                });
 
-            });
-
-        });
 
 
 <h2>Funcionalidades da página Notícias. </h2>
