@@ -22,9 +22,33 @@ As funcionalidade abaixo serão aplicadas nas páginas das receitas. Requisitos 
 <br><h3>Instruções de acesso:</h3>
 <br>1.	Abra um navegador de Internet e informe a seguinte URL: 
 <br>2.	A tela de notícias é a primeira funcionalidade exibida pelo aplicativo.
-<br><h3>Artefatos da funcionalidade:
-<br><h3>Estrutura de Dados:
+<br><h3>Artefatos da funcionalidade:</h3>
+<br>receitas.html
+<br>receita_3.html
+<br>receita_2.html
+<br>receita01.html
+<br>receitas.json
+<br>receitas.css
 
+<br><h3>Estrutura de Dados:
+<br>
+<script>
+
+        $(function() {
+            var people = [];
+            $.getJSON('../../resource/data/receitas.json', function(data) {
+                $.each(data.receitas, function(i, receita) {
+                    var tblRow = "<tr>" +
+                        "<td><h3>" + receita.titulo + " &nbsp </h3></td>" +
+                        "<td><a href=" + receita.url + "><img src='"+ receita.img + "' className='float-center' width='70%' height='70%' ></a></td>"
+                    "</tr>"
+                    $(tblRow).appendTo("#userdata tbody");
+                });
+
+            });
+
+        });
+    </script>
 
 <h2>Funcionalidades da página Notícias. </h2>
 <br><h3>Requisitos atendidos:</h3>
