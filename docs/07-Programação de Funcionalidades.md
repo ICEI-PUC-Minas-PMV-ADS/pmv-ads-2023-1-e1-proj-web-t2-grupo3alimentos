@@ -7,10 +7,10 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 Para cada requisito funcional, pode ser entregue um artefato desse tipo. 
 
 <h2>Funcionalidades da página Home. </h2>
-<br>Requisitos atendidos:
-<br>Artefatos da funcionalidade:
-<br>Estrutura de Dados:
-<br>Instruções de acesso:
+<br><h3>Requisitos atendidos:</h3>
+<br><h3>Artefatos da funcionalidade:</h3>
+<br><h3>Estrutura de Dados:</h3>
+<br><h3>Instruções de acesso:</h3>
 
 <h2>Funcionalidades da página de receitas e as páginas que se desdobram dela. </h2>
 As funcionalidade abaixo serão aplicadas nas páginas das receitas. Requisitos atingidos: 
@@ -22,19 +22,21 @@ As funcionalidade abaixo serão aplicadas nas páginas das receitas. Requisitos 
 <br><h3>Instruções de acesso:</h3>
 <br>1.	Abra um navegador de Internet e informe a seguinte URL: 
 <br>2.	A tela de notícias é a primeira funcionalidade exibida pelo aplicativo.
+<br><h3>Artefatos da funcionalidade:
+<br><h3>Estrutura de Dados:
 
 
-<h2>Funcionalidades da página Notícias. </h2>
-<br>Requisitos atendidos:
-<br>Artefatos da funcionalidade:
-<br>Estrutura de Dados:
-<br>Instruções de acesso:
+<h2><h3>Funcionalidades da página Notícias. </h2>
+<br><h3>Requisitos atendidos:</h3>
+<br><h3>Artefatos da funcionalidade:</h3>
+<br><h3>Estrutura de Dados:</h3>
+<br><h3>Instruções de acesso:</h3>
 
 <h2>Funcionalidades da página Sobre Nós. </h2>
-Requisitos atendidos:
-Artefatos da funcionalidade:
-Estrutura de Dados:
-Instruções de acesso:
+<br><h3>Requisitos atendidos:</h3>
+<br><h3>Artefatos da funcionalidade:</h3>
+<br><h3>Estrutura de Dados:</h3>
+<br><h3>Instruções de acesso:</h3>
 
 <h2>Funcionalidades da página Envie a sua Receita. </h2>
 
