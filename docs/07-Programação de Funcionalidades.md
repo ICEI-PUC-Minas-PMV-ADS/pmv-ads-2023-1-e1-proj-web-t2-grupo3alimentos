@@ -50,10 +50,38 @@ receitas.html
 <br><h3>Instruções de acesso:</h3>
 
 <h2>Funcionalidades da página Sobre Nós. </h2>
-<br><h3>Requisitos atendidos:</h3>
-<br><h3>Artefatos da funcionalidade:</h3>
-<br><h3>Estrutura de Dados:</h3>
-<br><h3>Instruções de acesso:</h3>
+A tela apresenta parágrafo, classes, imagens e legendas armezenadas dentro de li < ul. Com as seguintes funcionalidades.
+
+<h3>Requisitos atendidos:</h3>
+- RNF-01
+- RNF-02
+- RNF-03
+- RNF-04
+
+<h3>Artefatos da funcionalidade:</h3>
+- SobreNos.html
+- logo.png
+- StyleSobreNos.css
+- fotocamila.jpg
+- fotocarol.jpg
+- fotopaulo.jpg
+- fotoruan.jpg
+- rosimeire.jpg
+
+<h3>Instruções de acesso:</h3>
+1. Abra um navegador de Internet e informe a seguinte URL:
+2. A tela "sobre nós" é a primeira funcionalidade exibida pelo aplicativo.
+
+<h3>Estrutura de Dados:</h3>
+
+{
+<br>"empresa": [
+<br>{
+<br>"id": 6,
+<br>"Titulo 1": "Sobre nós",
+<br>"Paragrafo": "A Sabor & Saúde é um site composto por um grupo de estudantes de Belo Horizonte..
+<br>"Título 2": "Conheça nosso time"
+<br>"Integrantes": "Rosimeire Carvalho, Paulo Henrique, Camila..." } ] }
 
 <h2>Funcionalidades da página Envie a sua Receita. </h2>
 <br><h3>Requisitos atendidos:</h3>
