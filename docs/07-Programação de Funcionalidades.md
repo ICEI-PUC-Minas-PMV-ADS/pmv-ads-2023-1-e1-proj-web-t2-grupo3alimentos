@@ -13,7 +13,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo.
 <br><h3>Instruções de acesso:</h3>
 
 <h2>Funcionalidades da página de receitas e as páginas que se desdobram dela. </h2>
-As funcionalidade abaixo serão aplicadas nas páginas das receitas. Requisitos atingidos: 
+As funcionalidades abaixo serão aplicadas nas páginas das receitas. Requisitos atingidos: 
 <br> <b> RF-01</b>	Receitas: O site pode oferecer uma variedade de receitas para diversos públicos, com restrições alimentares ou não.
 <br> <b>RF-04</b>	Compartilhamento nas redes sociais: a possibilidade de compartilhar as receitas nas redes sociais pode ajudar a aumentar a visibilidade do site e permitir que os usuários compartilhem receitas interessantes com seus amigos e familiares.
 <br> <b>RNF-01</b>	Responsivo: O site pode ser visualizado facilmente em diferentes dispositivos, como desktops, laptops e smartphones, sem precisar de zoom ou rolagem horizontal.
@@ -50,7 +50,7 @@ receitas.html
 <br><h3>Instruções de acesso:</h3>
 
 <h2>Funcionalidades da página Sobre Nós. </h2>
-A tela apresenta parágrafo, classes, imagens e legendas armezenadas dentro de li < ul. Com as seguintes funcionalidades.
+A tela apresenta as caracteristicas técnicas descritas nos seguintes requisitos.
 
 <h3>Requisitos atendidos:</h3>
 RNF-01
