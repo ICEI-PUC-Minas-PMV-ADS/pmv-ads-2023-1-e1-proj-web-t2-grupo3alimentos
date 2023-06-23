@@ -32,8 +32,6 @@ As funcionalidade abaixo serão aplicadas nas páginas das receitas. Requisitos 
 
 <br><h3>Estrutura de Dados:
 <br>
-<script>
-
         $(function() {
             var people = [];
             $.getJSON('../../resource/data/receitas.json', function(data) {
@@ -48,7 +46,7 @@ As funcionalidade abaixo serão aplicadas nas páginas das receitas. Requisitos 
             });
 
         });
-    </script>
+
 
 <h2>Funcionalidades da página Notícias. </h2>
 <br><h3>Requisitos atendidos:</h3>
