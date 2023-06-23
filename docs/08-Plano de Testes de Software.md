@@ -16,27 +16,63 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 
 <br>
 <h2>Testes da página de receitas e as páginas que se desdobram dela. </h2>
-<br> <h3>Caso de teste 1:</h3>  
-<br> Objetivo 01: Testes dos links.
+<h3>Caso de teste 1:</h3>  
+Objetivo 01: Testes dos links.
 <br> Saída real do sistema: Todos os menus estão direcionando para o local correto.
 <br> Registro de execução: Êxito no teste.
-<br> <h3>Caso de teste 2:</h3>
-<br> Objetivo 02:Testes da responsividade. Um site responsivo em dispositivos móveis é projetado para se ajustar automaticamente a fim de caber em diferentes dispositivos móveis, tablets e desktops.
+
+<h3>Caso de teste 2:</h3>
+Objetivo 02:Testes da responsividade. Um site responsivo em dispositivos móveis é projetado para se ajustar automaticamente a fim de caber em diferentes dispositivos móveis, tablets e desktops.
 <br> Saída real do sistema: O site se adapta para às diferentes plataformas.
 <br> Registro de execução: Êxito no teste.
-<br> <h3>Caso de teste 3:</h3>
-<br> Objetivo 03:Testes do compartilhamento de redes sociais.
+
+<h3>Caso de teste 3:</h3>
+Objetivo 03:Testes do compartilhamento de redes sociais.
 <br> Saída real do sistema: O link do facebook leva ao compartilhamento na rede social.
 <br> Registro de execução: Êxito no teste.
 
-<br>
 <h2>Testes da página Sobre Nós. </h2>
-<br> 1-Testes dos links.
-<br> 2-Testes da responsividade. Um site responsivo em dispositivos móveis é projetado para se ajustar automaticamente a fim de caber em diferentes dispositivos móveis, tablets e desktops.
-<br> 3-Testes dos direcionamentos de login e contato.
+<h3>Caso de teste 1:</h3>
+Objetivo: Testar os links.
+<br> Saída esperada: Direcionar o usuário para o local desejado.
+<br> Registro de execução: Êxito no teste.
 
+<h3>Caso de teste 2:</h3> 
+Objetivo: Testar a responsividade.
+<br> Saída esperada: Responsividade da tela para diferentes tipos de aparelhos.
+<br> Registro de execução: Êxito no teste.
 
+<h2>Testes da página Envie sua Receita. </h2>
+<h3>Caso de teste 1:</h3> 
+Objetivo: Testar a funcionalidade.<br>
+Saída esperada: Após o preenchimento de todos os campos, aparecer a mensagem: "Receita enviada com sucesso!"
+<br> Registro de execução: Êxito no teste.
 
+<h3>Caso de teste 2:</h3> 
+Objetivo: Testar a funcionalidade. <br>
+Saída esperada: Não permitir o prosseguimento diante da ausência de preenchimento.
+<br> Registro de execução: Êxito no teste.
+
+<h3>Caso de teste 3:</h3>
+Objetivo: Testar a responsividade no smartphone e navegabilidade.<br>
+Saída esperada: Mesmas funções da tela 1920x1080.
+<br> Registro de execução: Êxito no teste.
+
+<h2>Testes da página Login. </h2>
+<h3>Caso de teste 1:</h3> 
+Objetivo: Testar a funcionalidade.
+<br> Saída esperada: Após o preenchimento dos campos, fazer login e ser redirecionado para a tela Home.
+<br> Registro de execução: Falha no teste.
+
+<h3>Caso de teste 2:</h3>
+Objetivo: Testar a funcionalidade.
+<br> Saída esperada: Não permitir o prosseguimento diante da ausência de preenchimento dos campos.
+<br> Registro de execução: Êxito no teste.
+
+<h3>Caso de teste 3:</h3>
+Objetivo: Testar a responsividade.
+<br> Saída esperada: Responsividade da tela para diferentes tipos de aparelhos.
+<br> Registro de execução: Êxito no teste.
 
 
 ## Ferramentas de Testes (Opcional)

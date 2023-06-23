@@ -68,10 +68,10 @@ Caso de testes 2:
 <br>
 <h2>Testes da página Login. </h2>
 <br> Caso de testes 1:
-<br> Objetivo: Testar a funcionalidade:
+<br> Objetivo: Testar a funcionalidade.
 <br> Saída esperada: Após o preenchimento dos campos, fazer login e ser redirecionado para a tela Home.
-<br> Saída real do sistema: Ao informar e-mail e senha, é efetuado login e redirecionado para a tela inicial.
-<br> Registro de execução: Êxito no teste.
+<br> Saída real do sistema: Ao informar e-mail e senha, não é efetuado login somente o redirecionado para a tela inicial.
+<br> Registro de execução: Falha no teste.
 
 ![Links](../resource/img/login01.png)
 
@@ -97,7 +97,7 @@ Caso de testes 2:
 **Objetivo:** testar a funcionalidade.<br>
 **Saída esperada:** Após o preenchimento de todos os campos, aparecer a mensagem: Receita enviada com sucesso!<br>
 **Saída real do sistema:** Receita enviada com sucesso! Após análise, sua receita estará disponível na aba “RECEITAS”!<br>
-**Registro de execução:** Passou na execução.<br>
+**Registro de execução:** Êxito no teste.<br>
 ![Links](../resource/img/TesteEnvie1.png)
 ![Links](../resource/img/TesteEnvie2.png)
 ![Links](../resource/img/TesteEnvie6.png)
@@ -106,7 +106,7 @@ Caso de testes 2:
 **Objetivo:** testar a funcionalidade. <br>
 **Saída esperada:** Não permitir o prosseguimento diante da ausência de preenchimento.<br> 
 **Saída real do sistema:** Por favor, preencha todos os campos.<br>
-**Registro de execução:** Passou na execução.<br>
+**Registro de execução:** Êxito no teste.<br>
 ![Links](../resource/img/TesteEnvie3.png)
 ![Links](../resource/img/TesteEnvie7.png)
  
@@ -114,7 +114,7 @@ Caso de testes 2:
 **Objetivo:** testar a responsividade no smartphone e navegabilidade.
 **Saída esperada:** Mesmas funções da tela 1920x1080.
 **Saída real do sistema:** Todas as funções disponíveis e visíveis. 
-**Registro de execução:** passou na execução.<br> 
+**Registro de execução:** Êxito no teste.<br> 
 ![Links](../resource/img/TesteEnvie1.png)
 ![Links](../resource/img/TesteEnvie4.png)
 ![Links](../resource/img/TesteEnvie5.png)
