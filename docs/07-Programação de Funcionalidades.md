@@ -20,7 +20,7 @@ As funcionalidade abaixo serão aplicadas nas páginas das receitas. Requisitos 
 <br> <b>RNF-03</b>	Linguagem simples: a linguagem utilizada no site deve ser simples e acessível para que todos os usuários possam entender as informações presentes.
 <br> <b>RNF-02</b>	Navegabilidade: a interface do site deve ser simples e fácil de navegar, para que os usuários possam encontrar rapidamente as receitas ou notícias que estão procurando.
 <br><h3>Instruções de acesso:</h3>
-<br>1.	Abra um navegador de Internet e informe a seguinte URL: 
+1.	Abra um navegador de Internet e informe a seguinte URL: 
 <br>2.	A tela de notícias é a primeira funcionalidade exibida pelo aplicativo.
 <br><h3>Artefatos da funcionalidade:</h3>
 receitas.html
@@ -30,8 +30,17 @@ receitas.html
 <br>receitas.json
 <br>receitas.css
 
-<br><h3>Estrutura de Dados:
-
+<br><h3>Estrutura de Dados:</h3>
+{
+<br>"receitas": [
+<br>{
+<br>"id": 1,
+<br>"titulo": "Torta Low Carb de Palmito e Alho-poró",
+<br>"Ingredientes": "2 ovos - 40 gramas de quinoa em flocos - 120 gramas de farinha de castanha de caju
+<br>"Modo de preparo": "Em um liquidificador, coloque os ovos, a quinoa, as farinhas, o azeite, uma pitada de sal, a água e bata bem. ..."
+}
+]
+}
 
 
 <h2>Funcionalidades da página Notícias. </h2>
