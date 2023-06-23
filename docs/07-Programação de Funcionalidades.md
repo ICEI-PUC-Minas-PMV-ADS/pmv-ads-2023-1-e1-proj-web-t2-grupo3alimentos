@@ -20,7 +20,7 @@ As funcionalidade abaixo serão aplicadas nas páginas das receitas. Requisitos 
 <br> <b>RNF-03</b>	Linguagem simples: a linguagem utilizada no site deve ser simples e acessível para que todos os usuários possam entender as informações presentes.
 <br> <b>RNF-02</b>	Navegabilidade: a interface do site deve ser simples e fácil de navegar, para que os usuários possam encontrar rapidamente as receitas ou notícias que estão procurando.
 <br><h3>Instruções de acesso:</h3>
-<br>1.	Abra um navegador de Internet e informe a seguinte URL: 
+1.	Abra um navegador de Internet e informe a seguinte URL: 
 <br>2.	A tela de notícias é a primeira funcionalidade exibida pelo aplicativo.
 <br><h3>Artefatos da funcionalidade:</h3>
 receitas.html
