@@ -8,7 +8,7 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 ![Exemplo de Template](img/logo.png)
 
 <b>Tela Principal</b>
-Tela que abrange todas as visualizações iniciais do site e a lista de notícias gerais.
+<br>Tela que abrange todas as visualizações iniciais do site e a lista de notícias gerais.
 
 ![Exemplo de Template](Templates/home.jpg)
 
