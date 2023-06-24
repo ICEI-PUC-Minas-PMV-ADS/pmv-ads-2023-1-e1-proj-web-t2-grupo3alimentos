@@ -46,7 +46,7 @@ As funcionalidades abaixo serão aplicadas nas páginas das receitas.
 <br> <b>RNF-02</b>	Navegabilidade: a interface do site deve ser simples e fácil de navegar, para que os usuários possam encontrar rapidamente as receitas ou notícias que estão procurando.
 <br><h3>Instruções de acesso:</h3>
 1.	Abra um navegador de Internet e informe a seguinte URL: 
-2.	A tela de receitas é a primeira funcionalidade exibida pelo aplicativo.
+2.	A tela de receitas está localizada no menu principal, já que a home é a primeira funcionalidade exibida pelo site.
 </br>
 <h3>Artefatos da funcionalidade:</h3>
 receitas.html
