@@ -17,7 +17,7 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 
 ![Exemplo de Template](Templates/Receitas%2001.jpg)
 
-<b>Tela de receitas</b>
+<b>Tela da receita selecionada</b>
 <br>Local onde são exibidas as receitas de forma completa.
 Página onde a receita selecinada é exibida de forma completa com os ingredientes,
 modo de preparo, possibildade de compartilhamento e comentários. 
