@@ -34,6 +34,8 @@ Index.html
 3.	Através da tela aberta, terá a opção de realizar a busca ou acessar às receitas ou noticias disponibilizadas na home page;
 
 <h2>Funcionalidades da página de receitas e as páginas que se desdobram dela. </h2>
+<img src="../src/imgs/requireceita.png">
+
 As funcionalidades abaixo serão aplicadas nas páginas das receitas. 
 
 <br><h3>Requisitos atingidos:</h3>
@@ -45,7 +47,8 @@ As funcionalidades abaixo serão aplicadas nas páginas das receitas.
 <br><h3>Instruções de acesso:</h3>
 1.	Abra um navegador de Internet e informe a seguinte URL: 
 2.	A tela de receitas é a primeira funcionalidade exibida pelo aplicativo.
-<br><h3>Artefatos da funcionalidade:</h3>
+</br>
+3. <h3>Artefatos da funcionalidade:</h3>
 receitas.html
 <br>receita_3.html
 <br>receita_2.html
