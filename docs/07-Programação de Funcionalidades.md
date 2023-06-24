@@ -48,7 +48,7 @@ As funcionalidades abaixo serão aplicadas nas páginas das receitas.
 1.	Abra um navegador de Internet e informe a seguinte URL: 
 2.	A tela de receitas é a primeira funcionalidade exibida pelo aplicativo.
 </br>
-3. <h3>Artefatos da funcionalidade:</h3>
+<h3>Artefatos da funcionalidade:</h3>
 receitas.html
 <br>receita_3.html
 <br>receita_2.html
