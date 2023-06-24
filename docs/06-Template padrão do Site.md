@@ -13,12 +13,15 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 ![Exemplo de Template](Templates/home.jpg)
 
 <b>Tela de receitas</b>
-<br>Local onde são exibidas as receitas de forma simplificada.
+<br>Local onde são exibidas as receitas de forma simplificada. É apresentado um menu com as últimas receitas do site. 
 
 ![Exemplo de Template](Templates/Receitas%2001.jpg)
 
 <b>Tela de receitas</b>
 <br>Local onde são exibidas as receitas de forma completa.
+Página onde a receita selecinada é exibida de forma completa com os ingredientes,
+modo de preparo, possibildade de compartilhamento e comentários. 
+
 
 ![Exemplo de Template](Templates/receitas%2002.jpg)
 
