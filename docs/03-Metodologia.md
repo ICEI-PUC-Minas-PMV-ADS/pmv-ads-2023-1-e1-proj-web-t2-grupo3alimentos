@@ -3,8 +3,18 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Neste projeto criaremos um site de receitas para pessoas com restrições ou 
+pedidos variados em sua dieta. Ferramentas utilizadas:
 
+1. WebStorm
+2. Visual Studio Code
+3. GitHub
+
+Formatos:
+
+1. HTML
+2. Json
+3. CSS
 
 ## Gerenciamento de Projeto
 
