@@ -7,10 +7,31 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 Para cada requisito funcional, pode ser entregue um artefato desse tipo. 
 
 <h2>Funcionalidades da página Home. </h2>
+A tela principal do programa, a Home Page, apresentada tão logo o cliente acesse o website (www.xxxxxxxxxx.xxx.xx), 
+conforme podemos ver na imagem abaixo:
+![HomePage1.png](img%2FHomePage1.png)
+![HomePage2.png](img%2FHomePage2.png)
+Há também no corpo da Home Page, dois links de receitas, bem como dois links de noticias disponibilizadas no programa, 
+a qual os levará à página de receita direta, ou à página de notícias. A Home Page, também contém uma Barra de Busca, que
+tem a finalidade de buscar receitas e notícias disponíveis no programa. Ao realizar uma busca de determinada receita ou 
+notícia, o programa retornará o resultado com o link para receita ou noticia a qual foi buscado. E caso de não 
+existência, retornará o resultado de “Nenhum resultado encontrado”. Conforme imagem abaixo
+
+![HomePage3.png](img%2FHomePage3.png)
 <br><h3>Requisitos atendidos:</h3>
+RF-03
+<br>RNF-01
+<br>RNF-02
+<br>RNF-03
+<br>RNF-04
 <br><h3>Artefatos da funcionalidade:</h3>
+Index.html
+<br>Stylehp.css
 <br><h3>Estrutura de Dados:</h3>
 <br><h3>Instruções de acesso:</h3>
+1.	Abra o navegador de internet em um computador ou dispositivo eletrônico e informe a URL http://www.wwwwwww.www.ww ;
+2.	A tela home page será a primeira a ser aberta;
+3.	Através da tela aberta, terá a opção de realizar a busca ou acessar às receitas ou noticias disponibilizadas na home page;
 
 <h2>Funcionalidades da página de receitas e as páginas que se desdobram dela. </h2>
 As funcionalidades abaixo serão aplicadas nas páginas das receitas. Requisitos atingidos: 
@@ -51,6 +72,9 @@ receitas.html
 
 <h2>Funcionalidades da página Sobre Nós. </h2>
 A tela apresenta as caracteristicas técnicas descritas nos seguintes requisitos.
+
+![SobreNos1.png](img%2FSobreNos1.png)
+![SobreNos2.png](img%2FSobreNos2.png)
 
 <h3>Requisitos atendidos:</h3>
 RNF-01
