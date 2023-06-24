@@ -8,7 +8,10 @@
 
 ## Título do Projeto
 
-Nome e marca do projeto
+Sabor e saúde.
+
+<h1> <img src="../src/imgs/logo.png">
+</h1>
 
 ## Identidade Visual (Marca, Design)
 
