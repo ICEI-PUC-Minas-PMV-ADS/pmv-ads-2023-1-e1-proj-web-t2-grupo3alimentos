@@ -6,37 +6,34 @@ Apresente os cenários de testes utilizados na realização dos testes da sua ap
 
 Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
 
-<br>
 <h2>Testes da página Home. </h2>
-<br> Caso de Teste 1:
-<br>Objetivo 01: Testes dos links.
+<h3>Caso de teste 1:</h3>
+Objetivo 01: Testes dos links.
 <br>Saída real do sistema: Todos os menus estão direcionando para as suas respectivas páginas e retornando-o para a Home Page, tal como à página Contato.
 <br> Registro de execução: Êxito no teste.
 
-<br> Caso de Teste 2:
-<br> Objetivo 02: Testes da responsividade.
+<h3>Caso de teste 2:</h3>
+Objetivo 02: Testes da responsividade.
 <br> Um site responsivo em dispositivos móveis é projetado para se ajustar automaticamente a fim de caber em diferentes dispositivos móveis, tablets e desktops.
 <br> Saída real do sistema: O site se adapta para às diferentes plataformas.
 <br> Registro de execução: Êxito no teste.
 
-
-<br> Caso de Teste 3:
-<br> Objetivo 03: Testes da barra de pesquisa
+<h3>Caso de teste 3:</h3>
+Objetivo 03: Testes da barra de pesquisa
 <br> A barra de pesquisa está funcional, retornando a pesquisa realizada de acordo com o conteúdo de receitas e noticias existente no programa. Ao clicar no retorno da pesquisa existente, encaminha para o link correto respectivo da receita ou para a página interna de notícias.
 <br> Registro de execução: Êxito no teste.
 
-<br> Caso de Teste 4:
-<br> Obejetivo 04: Testes de falha da barra de pesquisa
+<h3>Caso de teste 4:</h3>
+Objetivo 04: Testes de falha da barra de pesquisa
 <br> A barra de pesquisa está funcional para o retorno de nenhuma receita ou notícia relacionada a busca realizada, caso não existente, retornando a mensagem "Nenhum resultado encontrado."
 <br> Registro de falha da execução: Êxito no teste.
 
 
-<br> Caso de Teste 5:
-<br> Obejetivo 05: Testes de sucesso dos links no conteudo da Home Page.
+<h3>Caso de teste 5:</h3>
+Objetivo 05: Testes de sucesso dos links no conteudo da Home Page.
 <br> A página Home Page contém quatro links, referente a duas receitas existente e duas nótícias, a qual estão funcionais.
 <br> Registro da execução: Êxito no teste.
 
-<br>
 <h2>Testes da página de receitas e as páginas que se desdobram dela. </h2>
 <h3>Caso de teste 1:</h3>  
 Objetivo 01: Testes dos links.
