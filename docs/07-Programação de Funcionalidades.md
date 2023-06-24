@@ -34,7 +34,9 @@ Index.html
 3.	Através da tela aberta, terá a opção de realizar a busca ou acessar às receitas ou noticias disponibilizadas na home page;
 
 <h2>Funcionalidades da página de receitas e as páginas que se desdobram dela. </h2>
-As funcionalidades abaixo serão aplicadas nas páginas das receitas. Requisitos atingidos: 
+As funcionalidades abaixo serão aplicadas nas páginas das receitas. 
+
+<br><h3>Requisitos atingidos:</h3>
 <br> <b> RF-01</b>	Receitas: O site pode oferecer uma variedade de receitas para diversos públicos, com restrições alimentares ou não.
 <br> <b>RF-04</b>	Compartilhamento nas redes sociais: a possibilidade de compartilhar as receitas nas redes sociais pode ajudar a aumentar a visibilidade do site e permitir que os usuários compartilhem receitas interessantes com seus amigos e familiares.
 <br> <b>RNF-01</b>	Responsivo: O site pode ser visualizado facilmente em diferentes dispositivos, como desktops, laptops e smartphones, sem precisar de zoom ou rolagem horizontal.
