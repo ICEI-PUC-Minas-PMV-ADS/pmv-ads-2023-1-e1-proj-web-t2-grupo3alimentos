@@ -3,11 +3,6 @@ body{
     height: 100%;
 }
 /*Cabecalho do Site */
-header {
-    height: 200px;
-    background-color: rgb(148, 195, 88);
-
-}
 
 .menu-principal {
     float: right;
