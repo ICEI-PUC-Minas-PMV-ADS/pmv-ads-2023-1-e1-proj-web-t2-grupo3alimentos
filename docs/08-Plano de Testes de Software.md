@@ -93,7 +93,7 @@ Objetivo: Testar a responsividade.
 <br> Saída esperada: Responsividade da tela para diferentes tipos de aparelhos.
 <br> Registro de execução: Êxito no teste.
 
-<h2> Teste tela notícias </h2>
+<h2> Teste página notícias </h2>
 <h3> Caso de teste 1: </h3>
 Objetivo: Testes dos links.
 <br>Saída real do sistema: Todos os menus estão direcionando para as suas respectivas páginas.

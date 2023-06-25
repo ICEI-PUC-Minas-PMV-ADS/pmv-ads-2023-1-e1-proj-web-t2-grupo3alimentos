@@ -4,11 +4,7 @@
 
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
-## Avaliação
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
-
-<br>
 <h2>Testes da página Home. </h2>
 <br> 1-Testes dos links. Todos os menus estão direcionando para o local correto.</br>
 
@@ -43,7 +39,7 @@ O ícone está direcionando para as redes sociais corretamente.
  ![Links](../resource/img/redesociais.png)
 </br>
 
-<br>
+
 <h2>Testes da página Sobre Nós. </h2>
 <br> Caso de testes 1:
 <br> Objetivo: Testar os links.
@@ -63,7 +59,6 @@ Caso de testes 2:
 ![Links](../resource/img/sobrenosresp.png)
 ![Links](../resource/img/sobrenosresp2.png)
 
-<br>
 <h2>Testes da página Login. </h2>
 <br> Caso de testes 1:
 <br> Objetivo: Testar a funcionalidade.
@@ -91,28 +86,31 @@ Caso de testes 2:
 
 <h2>Teste Tela Envie sua Receita</h2>
 
-#### Caso de testes 1:
-**Objetivo:** testar a funcionalidade.<br>
-**Saída esperada:** Após o preenchimento de todos os campos, aparecer a mensagem: Receita enviada com sucesso!<br>
-**Saída real do sistema:** Receita enviada com sucesso! Após análise, sua receita estará disponível na aba “RECEITAS”!<br>
-**Registro de execução:** Êxito no teste.<br>
+<br> Caso de testes 1:
+<br>Objetivo: testar a funcionalidade.
+<br>Saída esperada: Após o preenchimento de todos os campos, aparecer a mensagem: Receita enviada com sucesso!
+<br>Saída real do sistema:Receita enviada com sucesso! Após análise, sua receita estará disponível na aba “RECEITAS”!
+<br>Registro de execução: Êxito no teste.<br>
+
 ![Links](../resource/img/TesteEnvie1.png)
 ![Links](../resource/img/TesteEnvie2.png)
 ![Links](../resource/img/TesteEnvie6.png)
 
-#### Caso de testes 2:
-**Objetivo:** testar a funcionalidade. <br>
-**Saída esperada:** Não permitir o prosseguimento diante da ausência de preenchimento.<br> 
-**Saída real do sistema:** Por favor, preencha todos os campos.<br>
-**Registro de execução:** Êxito no teste.<br>
+<br> Caso de testes 2:
+<br>Objetivo: testar a funcionalidade.
+<br>Saída esperada: Não permitir o prosseguimento diante da ausência de preenchimento. 
+<br>Saída real do sistema: "Por favor, preencha todos os campos."
+<br>Registro de execução:Êxito no teste.
+
 ![Links](../resource/img/TesteEnvie3.png)
 ![Links](../resource/img/TesteEnvie7.png)
  
-#### Caso de testes 3:
-**Objetivo:** testar a responsividade no smartphone e navegabilidade.
-**Saída esperada:** Mesmas funções da tela 1920x1080.
-**Saída real do sistema:** Todas as funções disponíveis e visíveis. 
-**Registro de execução:** Êxito no teste.<br> 
+Caso de testes 3:
+<br>Objetivo: testar a responsividade no smartphone e navegabilidade.
+<br>Saída esperada: Mesmas funções da tela 1920x1080.
+<br>Saída real do sistema: Todas as funções disponíveis e visíveis. 
+<br>Registro de execução: Êxito no teste. 
+
 ![Links](../resource/img/TesteEnvie1.png)
 ![Links](../resource/img/TesteEnvie4.png)
 ![Links](../resource/img/TesteEnvie5.png)
