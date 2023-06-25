@@ -26,7 +26,7 @@ O site está direcionando os resultados das pesquisas das receitas e noticias qu
 4-Testes de falha, de receita ou noticia não existente, indicando a mensagem de "Nenhum Resultado Encontrado", funcionando corretamente.
 ![Links](../resource/img/HomePage_BuscaBrigadeiro.png)
 
-5-Teste de Sucesso de Links interno do programa: Testes de sucesso dos links no conteudo da Home Page, encaminhando corretamente para todas os links existentes.
+5-Teste de Sucesso de Links internos do programa: Testes de sucesso dos links no conteudo da Home Page, encaminhando corretamente para todas os links existentes.
 <br> A página Home Page contém quatro links, referente a duas receitas existente e duas nótícias, a qual estão funcionais.
 ![Links](../resource/img/HomePage_AcessandoSobreNos.png)
 <br>
