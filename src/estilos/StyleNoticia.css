@@ -145,37 +145,6 @@ main {
 }
 
 
-    
-/* (INICIO) */
-
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-    .center-align {
-        text-align: center;
-        margin: 0 auto;
-    }
-
-    .item {
-        display: inline-block;
-        width: 25%; 
-        margin: 10px;
-    }
-    
-    .item img {
-        width: 100%;
-        height: auto;
-    }
-</style>
-</head>
-<body>
-
-<h2 class="center-align">
-    <span style="color: #FF9D00; font-size: 30px; padding: 30px">NOTÍCIAS E DICAS</span>
-</h2>
-
-
 /* (INICIO) */
 
 header {
