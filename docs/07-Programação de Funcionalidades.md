@@ -70,10 +70,23 @@ receitas.html
 
 
 <h2>Funcionalidades da página Notícias. </h2>
-<br><h3>Requisitos atendidos:</h3>
-<br><h3>Artefatos da funcionalidade:</h3>
-<br><h3>Estrutura de Dados:</h3>
-<br><h3>Instruções de acesso:</h3>
+![noticias1.png](..%2Fresource%2Fimg%2Fnoticias1.png)
+
+<h3>Requisitos atendidos:</h3>
+<b>RF-06 </b>- O site permitirá que o usuário acesse notícias externas com conteúdo relevante sobre o mundo saudável.
+<br><b>RNF-01 </b>- Responsivo: O site pode ser visualizado facilmente em diferentes dispositivos, como desktops, laptops e smartphones, sem precisar de zoom ou rolagem horizontal.
+<br><b>RNF-02</b>- Navegabilidade: a interface do site deve ser simples e fácil de navegar, para que os usuários possam encontrar rapidamente as receitas ou notícias que estão procurando.
+<br><b>RNF-03</b>-Linguagem simples: a linguagem utilizada no site deve ser simples e acessível para que todos os usuários possam entender as informações presentes.
+<br><b>RNF-04</b>- O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).
+
+<h3>Artefatos da funcionalidade:</h3>
+StyleNoticia.css
+Noticias.html
+
+<h3>Instruções de acesso:</h3>
+1.	Abra o navegador de internet em um computador ou dispositivo eletrônico e informe a URL http://www.wwwwwww.www.ww ;
+2.	Clique na aba noticias
+3.	Através da tela aberta, clique na imagem ou no link da notícia, em seguida abrirá uma nova guia com a notícia selecionada.
 
 <h2>Funcionalidades da página Sobre Nós. </h2>
 A tela apresenta as caracteristicas técnicas descritas nos seguintes requisitos.

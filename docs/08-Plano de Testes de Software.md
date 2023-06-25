@@ -93,10 +93,23 @@ Objetivo: Testar a responsividade.
 <br> Saída esperada: Responsividade da tela para diferentes tipos de aparelhos.
 <br> Registro de execução: Êxito no teste.
 
+<h2> Teste tela notícias </h2>
+<h3> Caso de teste 1: </h3>
+Objetivo: Testes dos links.
+<br>Saída real do sistema: Todos os menus estão direcionando para as suas respectivas páginas.
+<br>Registro de execução: Êxito no teste.
 
-## Ferramentas de Testes (Opcional)
+<h3> Caso de teste 2: </h3>
+Objetivo:Testes da responsividade.
+Um site responsivo em dispositivos móveis é projetado para se ajustar automaticamente a fim de caber em diferentes dispositivos móveis, tablets e desktops.
+<br>Saída real do sistema: O site se adapta para às diferentes plataformas.
+<br>Registro de execução: Êxito no teste
 
-Comente sobre as ferramentas de testes utilizadas.
+<h3> Caso de teste 3 </h3>
+Objetivo 03: Testes de sucesso dos links no conteúdo página de notícias.
+<br>Saída real do sistema: A página notícias  contém três  links, referente a notícias, a qual estão funcionais.
+<br>Registro da execução: Êxito no teste.
+
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)

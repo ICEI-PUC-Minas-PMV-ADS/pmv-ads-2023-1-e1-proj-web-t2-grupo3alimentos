@@ -89,7 +89,7 @@ Caso de testes 2:
 
 ![Links](..//resource/img/testeresponlogin.png)
 
-#### Teste Tela Envie sua Receita
+<h2>Teste Tela Envie sua Receita</h2>
 
 #### Caso de testes 1:
 **Objetivo:** testar a funcionalidade.<br>
@@ -117,10 +117,15 @@ Caso de testes 2:
 ![Links](../resource/img/TesteEnvie4.png)
 ![Links](../resource/img/TesteEnvie5.png)
 
+<h2> Teste tela Notícias </h2>
+1-Testes dos links. Todos os menus estão direcionando para o local correto.
+![noticias1.png](..%2Fresource%2Fimg%2Fnoticias1.png)
 
+2-Testes da responsividade. O programa adapta para outas plataformas, conforme imagens abaixo.
+![noticias2.png](..%2Fresource%2Fimg%2Fnoticias2.png)
 
-
-
+3-Testes de direcionamento link notícia (sites externos):
+![noticias3.png](..%2Fresource%2Fimg%2Fnoticias3.png)
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
