@@ -48,6 +48,61 @@ h5 {
     width: 35%;
 }
 
+/*Corpo do Site */
+
+h2 {
+    font-family: Arial;
+    font-size: 50px;
+    padding: 35px;
+}
+
+main {
+    height: 520px;
+    font-family: Arial;
+    font-size: larger;
+    color: black;
+    text-align: center;
+}
+
+
+.center-align {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+.item {
+        display: inline-block;
+        width: 25%;
+        margin: 10px;
+    }
+
+.item img {
+        width: 100%;
+        height: auto;
+    }
+
+footer {
+    clear: both;
+    height: 80px;
+    background-color: rgb(148, 195, 88);
+    width: 100%;
+    position: relative;
+    bottom: 0;
+}
+
+.rodape {
+    float: right;
+    font-family: arial;
+
+}
+
+.rodape>ul>li {
+    display: inline-block;
+    padding: 20px;
+}
+
+/*RESPONSIVIDADE */
+
 @media only screen and (max-width: 700px) {
 
     header {
@@ -79,6 +134,12 @@ h5 {
         justify-content: center;
     }
 
+    .item {
+        display: inline-block;
+        width: 25%;
+        margin: 10px;
+
+    }
 }
 
 @media only screen and (max-width: 500px) {
@@ -98,115 +159,47 @@ h5 {
         position: static;
         margin-bottom: 10px;
     }
+
+    .footer {
+        position: relative;
+        height: 40px;
+    }
 }
+@media only screen and (max-width: 900px) {
 
-/*Corpo do Site */
+    header {
+        height: auto;
+        padding: 15px;
+    }
 
-h2 {
-    font-family: Arial;
-    font-size: 50px;
-    padding: 35px;    
-}
+    .menu-principal {
+        float: none;
+        height: auto;
+        justify-content: center;
+    }
 
-.logo{
-    position: absolute;
-    top: 45px;
-    left: 70px;
-}
-
-.coluna {
-    width: 20%;
-    float: right;
-    font-size: smaller;
-    text-align: center;
-}
-
-main {
-    height: 520px;
-    font-family: Arial;
-    font-size: larger;
-    color: black;
-    text-align: center;
-}
-
-.produto-item {
-    width: 200px;
-    float: left;
-    padding: 0 10px;
-
-}
-.nomelogo {
-    font-family: arial;
-    font-size: 25px;
-    color: black;
-    text-align: center;
-    float: right;
-    padding:150px;
-}
-
-
-    
-/* (INICIO) */
-
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-    .center-align {
+    .menu-principal > ul > li {
+        display: block;
+        padding: 10px;
         text-align: center;
-        margin: 0 auto;
+    }
+
+    .logo {
+        position: static;
+        top: auto;
+        left: auto;
+    }
+
+    .menusabor > .sabor {
+        float: none;
+        height: auto;
+        justify-content: center;
     }
 
     .item {
         display: inline-block;
-        width: 25%; 
+        width: 25%;
         margin: 10px;
+
     }
-    
-    .item img {
-        width: 100%;
-        height: auto;
-    }
-</style>
-</head>
-<body>
-
-<h2 class="center-align">
-    <span style="color: #FF9D00; font-size: 30px; padding: 30px">NOTÍCIAS E DICAS</span>
-</h2>
-
-
-/* (INICIO) */
-
-header {
-    height: 200px;
-    background-color: rgb(148, 195, 88);
-
-}
-footer {
-    clear: both;
-    height: 80px;
-    background-color: rgb(148, 195, 88);
-    width: 100%;
-    position: relative;
-    bottom: 0;
-}
-
-.rodape {
-    float: right;
-    font-family: arial;
-
-}
-
-.rodape>ul>li {
-    display: inline-block;
-    padding: 20px;
-}
-
-@media only screen and (max-width: 700px) {
-    .footer{
-        position:relative;
-        height: 40px;
-    }
-
 }
