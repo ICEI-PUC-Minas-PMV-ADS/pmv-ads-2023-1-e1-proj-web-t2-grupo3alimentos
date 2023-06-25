@@ -12,25 +12,23 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 <h2>Testes da página Home. </h2>
 <br> 1-Testes dos links. Todos os menus estão direcionando para o local correto.</br>
 
-![Links](../resource/img/home.png)
+![Links](../resource/img/HomePage_1.png)
 
 2-Testes da responsividade.
-O site não se adpta para outas plataformas, conforme imagem abaixo. Precisa ser corrigido, Paulo ficará responsável
-por isso para a próxima entrega. 
-![Links](../resource/img/homerespon.png)
+O programa adpta para outas plataformas, conforme imagem abaixo.
+![Links](../resource/img/HomePage_Responsivo.png)
 <br>
 
-2-Testes da barra de pesquisa.
-O site está direcionando os resultados das pesquisas para o Google, precisa ser 
-corrigido, Paulo ficará responsável por isso na próxima entrega.
-![Links](../resource/img/pesquisa.png)
+3-Testes da barra de pesquisa.
+O site está direcionando os resultados das pesquisas das receitas e noticias que existem no banco de dados do programa.
+![Links](../resource/img/HomePage_BuscaTorta.png)
 
- 3-Testes da tela de login e contato.
-O ícone está direcionando para as páginas corretamente.
-![Links](../resource/img/homeloginecontato.png)
+4-Testes de falha, de receita ou noticia não existente, indicando a mensagem de "Nenhum Resultado Encontrado", funcionando corretamente.
+![Links](../resource/img/HomePage_BuscaBrigadeiro.png)
 
-
-
+5-Teste de Sucesso de Links interno do programa: Testes de sucesso dos links no conteudo da Home Page, encaminhando corretamente para todas os links existentes.
+<br> A página Home Page contém quatro links, referente a duas receitas existente e duas nótícias, a qual estão funcionais.
+![Links](../resource/img/HomePage_AcessandoSobreNos.png)
 <br>
 <h2>Testes da página de receitas e as páginas que se desdobram dela. </h2>
 <br> 1-Testes dos links. Todos os menus estão direcionando para o local correto. 
