@@ -13,7 +13,7 @@
 
         $(function() {
             var people = [];
-            $.getJSON('../../resource/data/receitas.json', function(data) {
+            $.getJSON('../dados/receitas.json', function(data) {
                 $.each(data.receitas, function(i, receita) {
                     var tblRow = "<tr>" +
                         "<td><h3>" + receita.titulo + " &nbsp </h3></td>" +

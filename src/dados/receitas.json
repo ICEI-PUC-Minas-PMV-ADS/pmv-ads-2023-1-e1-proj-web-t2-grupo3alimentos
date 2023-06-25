@@ -31,7 +31,7 @@
         "Despeje sobre a massa pré assada, cubra com o restante da massa e volte ao forno por mais 15 minutos. ",
         "Aproveite"
       ],
-      "img": "../../resource/img/torta.png",
+      "img": "../imgs/torta.png",
       "url": "receita01.html"
     },
     {
@@ -52,7 +52,7 @@
         "Reserve o pão e deixe crescer em local abafado, até dobrar de tamanho. Quando a massa estiver bem aerada, coloque para assar em forno médio, preaquecido a 180 ºC, por cerca de 30 minutos ou até que o pão esteja totalmente assado. Sirva e aproveite."
 
       ],
-      "img": "../../resource/img/pao.jpeg",
+      "img": "../imgs/pao.jpeg",
       "url": "receita_2.html"
     },
     {
@@ -86,7 +86,7 @@
         "Despeje sobre a massa pré assada, cubra com o restante da massa e volte ao forno por mais 15 minutos. ",
         "Aproveite"
       ],
-      "img": "../../resource/img/salada.jpeg",
+      "img": "../imgs//salada.jpeg",
       "url": "receita_3.html"
     }
 
