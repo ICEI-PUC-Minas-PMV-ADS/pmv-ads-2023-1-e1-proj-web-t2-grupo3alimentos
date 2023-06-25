@@ -7,17 +7,17 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 Para cada requisito funcional, pode ser entregue um artefato desse tipo. 
 
 <h2>Funcionalidades da página Home. </h2>
-A tela principal do programa, a Home Page, apresentada tão logo o cliente acesse o website (www.xxxxxxxxxx.xxx.xx), 
+A tela principal do programa, a Home Page, apresentada tão logo o cliente acesse o website (https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t2-grupo3alimentos/src/telas/Index), 
 conforme podemos ver na imagem abaixo:
-![HomePage1.png](img%2FHomePage1.png)
-![HomePage2.png](img%2FHomePage2.png)
+<img src="../docs/img/HomePage1.png">
+<img src="../docs/img/HomePage2.png">
 Há também no corpo da Home Page, dois links de receitas, bem como dois links de noticias disponibilizadas no programa, 
 a qual os levará à página de receita direta, ou à página de notícias. A Home Page, também contém uma Barra de Busca, que
 tem a finalidade de buscar receitas e notícias disponíveis no programa. Ao realizar uma busca de determinada receita ou 
 notícia, o programa retornará o resultado com o link para receita ou noticia a qual foi buscado. E caso de não 
 existência, retornará o resultado de “Nenhum resultado encontrado”. Conforme imagem abaixo
 
-![HomePage3.png](img%2FHomePage3.png)
+<img src="../docs/img/HomePage3.png">
 <br><h3>Requisitos atendidos:</h3>
 RF-03
 <br>RNF-01
@@ -29,7 +29,7 @@ Index.html
 <br>Stylehp.css
 <br><h3>Estrutura de Dados:</h3>
 <br><h3>Instruções de acesso:</h3>
-1.	Abra o navegador de internet em um computador ou dispositivo eletrônico e informe a URL http://www.wwwwwww.www.ww ;
+1.	Abra o navegador de internet em um computador ou dispositivo eletrônico e informe a URL https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t2-grupo3alimentos/src/telas/Index;
 2.	A tela home page será a primeira a ser aberta;
 3.	Através da tela aberta, terá a opção de realizar a busca ou acessar às receitas ou noticias disponibilizadas na home page;
 
@@ -45,7 +45,7 @@ As funcionalidades abaixo serão aplicadas nas páginas das receitas.
 <br> <b>RNF-03</b>	Linguagem simples: a linguagem utilizada no site deve ser simples e acessível para que todos os usuários possam entender as informações presentes.
 <br> <b>RNF-02</b>	Navegabilidade: a interface do site deve ser simples e fácil de navegar, para que os usuários possam encontrar rapidamente as receitas ou notícias que estão procurando.
 <br><h3>Instruções de acesso:</h3>
-1.	Abra um navegador de Internet e informe a seguinte URL: 
+1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t2-grupo3alimentos/src/telas/Index
 2.	A tela de receitas está localizada no menu principal, já que a home é a primeira funcionalidade exibida pelo site.
 </br>
 <h3>Artefatos da funcionalidade:</h3>
@@ -70,7 +70,7 @@ receitas.html
 
 
 <h2>Funcionalidades da página Notícias. </h2>
-![noticias1.png](..%2Fresource%2Fimg%2Fnoticias1.png)
+<img src="../resource/img/noticias1.png">
 
 <h3>Requisitos atendidos:</h3>
 <b>RF-06 </b>- O site permitirá que o usuário acesse notícias externas com conteúdo relevante sobre o mundo saudável.
@@ -84,15 +84,15 @@ StyleNoticia.css
 Noticias.html
 
 <h3>Instruções de acesso:</h3>
-1.	Abra o navegador de internet em um computador ou dispositivo eletrônico e informe a URL http://www.wwwwwww.www.ww ;
+1.	Abra o navegador de internet em um computador ou dispositivo eletrônico e informe a URL https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t2-grupo3alimentos/src/telas/Index;
 2.	Clique na aba noticias
 3.	Através da tela aberta, clique na imagem ou no link da notícia, em seguida abrirá uma nova guia com a notícia selecionada.
 
 <h2>Funcionalidades da página Sobre Nós. </h2>
 A tela apresenta as caracteristicas técnicas descritas nos seguintes requisitos.
 
-![SobreNos1.png](img%2FSobreNos1.png)
-![SobreNos2.png](img%2FSobreNos2.png)
+<img src="../docs/img/SobreNos1.png">
+<img src="../docs/img/SobreNos2.png">
 
 <h3>Requisitos atendidos:</h3>
 RNF-01
@@ -111,11 +111,12 @@ SobreNos.html
 <br>rosimeire.jpg
 
 <h3>Instruções de acesso:</h3>
-1. Abra um navegador de Internet e informe a seguinte URL:<br>
-2. A tela "sobre nós" é a primeira funcionalidade exibida pelo aplicativo.
+1. Abra um navegador de Internet e informe a seguinte URL:https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t2-grupo3alimentos/src/telas/Index <br>
+2. A tela "sobre nós" está disponível no menu superior, da tela acessada pelo link.
 
 <h2>Funcionalidades da página Envie a sua Receita. </h2>
-![enviereceita.png](img%2Fenviereceita.png)
+
+<img src="../docs/img/enviereceita.png">
 
 A tela apresenta as caracteristicas técnicas e funcionais descritas nos seguintes requisitos.
 <br><h3>Requisitos atendidos:</h3>
@@ -135,7 +136,7 @@ EnviesuaReceita.html
 
 <h3>Instruções de acesso:</h3>
 
-1. Abra um navegador de Internet e informe a seguinte URL:
+1. Abra um navegador de Internet e informe a seguinte URL:https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t2-grupo3alimentos/src/telas/Index
 2. A tela "Envie sua Receita" está localizada no menu principal, já que a home é a primeira funcionalidade exibida pelo site. Sendo assim, basta seleciona-la no menu principal para ser direcionado a ela.
 
 > **Links Úteis**:

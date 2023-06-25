@@ -9,4 +9,4 @@ O público é extremamente amplo. Pessoas que procuram receitas específicas a p
 Ao final do projeto foi notável que foi possível cumprir com a maioria dos objetivos e requisitos, ficando algumas atualizações para serem feitas posteriormente.
 
 
-Faça o upload do arquivo de vídeo e dos slides usados na apresentação no formato PDF (caso tenha feito uso de slides).
+
