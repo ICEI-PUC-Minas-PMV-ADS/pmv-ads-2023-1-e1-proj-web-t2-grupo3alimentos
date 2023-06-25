@@ -3,6 +3,11 @@ body{
     height: 100%;
 }
 /*Cabecalho do Site */
+header {
+    height: 200px;
+    background-color: rgb(148, 195, 88);
+
+}
 
 .menu-principal {
     float: right;
@@ -76,7 +81,7 @@ h5 {
 
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 700px) {
     .menusabor {
         display: flex;
         flex-direction: column;
@@ -86,7 +91,7 @@ h5 {
 
     .logo {
         position: static;
-        margin-bottom: 10px;
+        
     }
 
     h5 {
@@ -140,6 +145,37 @@ main {
 }
 
 
+    
+/* (INICIO) */
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    .center-align {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .item {
+        display: inline-block;
+        width: 25%; 
+        margin: 10px;
+    }
+    
+    .item img {
+        width: 100%;
+        height: auto;
+    }
+</style>
+</head>
+<body>
+
+<h2 class="center-align">
+    <span style="color: #FF9D00; font-size: 30px; padding: 30px">NOTÍCIAS E DICAS</span>
+</h2>
+
+
 /* (INICIO) */
 
 header {
@@ -174,5 +210,3 @@ footer {
     }
 
 }
-  
- 
