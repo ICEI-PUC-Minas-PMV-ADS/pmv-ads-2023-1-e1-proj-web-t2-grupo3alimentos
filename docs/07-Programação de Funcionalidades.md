@@ -101,22 +101,29 @@ SobreNos.html
 1. Abra um navegador de Internet e informe a seguinte URL:<br>
 2. A tela "sobre nós" é a primeira funcionalidade exibida pelo aplicativo.
 
-<h3>Estrutura de Dados:</h3>
-
-{
-<br>"empresa": [
-<br>{
-<br>"ID": 6,
-<br>"Titulo 1": "Sobre nós",
-<br>"Paragrafo": "A Sabor & Saúde é um site composto por um grupo de estudantes de Belo Horizonte..
-<br>"Título 2": "Conheça nosso time"
-<br>"Integrantes": "Rosimeire Carvalho, Paulo Henrique, Camila..." } ] }
-
 <h2>Funcionalidades da página Envie a sua Receita. </h2>
+![enviereceita.png](img%2Fenviereceita.png)
+
+A tela apresenta as caracteristicas técnicas e funcionais descritas nos seguintes requisitos.
 <br><h3>Requisitos atendidos:</h3>
-<br><h3>Artefatos da funcionalidade:</h3>
-<br><h3>Estrutura de Dados:</h3>
-<br><h3>Instruções de acesso:</h3>
+
+RF-01
+<br>RF-02
+<br>RNF-01
+<br>RNF-02
+<br>RNF-03
+<br>RNF-04
+
+<h3>Artefatos da funcionalidade:</h3>
+
+EnviesuaReceita.html
+<br>Style2.css
+<br>Script.js
+
+<h3>Instruções de acesso:</h3>
+
+1. Abra um navegador de Internet e informe a seguinte URL:
+2. A tela "Envie sua Receita" está localizada no menu principal, já que a home é a primeira funcionalidade exibida pelo site. Sendo assim, basta seleciona-la no menu principal para ser direcionado a ela.
 
 > **Links Úteis**:
 >
