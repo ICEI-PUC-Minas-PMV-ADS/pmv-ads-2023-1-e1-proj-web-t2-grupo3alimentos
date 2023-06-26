@@ -26,7 +26,7 @@
         $.support.cors = true;
         $(function() {
             var people = [];
-            // $.getJSON("api.github.com/users/jeresig?callback=?",function(json){ console.log(json); });
+
             $.getJSON('https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t2-grupo3alimentos/main/src/dados/receitas.json', function(data) {
                 $.each(data.receitas, function(i, receita) {
                     var tblRow = "<tr>" +
